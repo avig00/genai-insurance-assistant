@@ -1,0 +1,1001 @@
+CLAIM_ID,POLICY_ID,CUSTOMER_ID,STATE,LINE_OF_BUSINESS,BROKER_ID,CLAIM_TYPE,CLAIM_AMOUNT,CLAIM_STATUS,DATE_REPORTED,NOTES,DATE_RESOLVED,IS_CLOSED
+C00000,P10333,CU1532,FL,Commercial,Broker_4,Theft,7927.16,Closed,2024-12-20 05:28:33.639277,Adjuster flagged for review,2025-01-26 05:28:33.639277,1
+C00001,P10283,CU1545,IL,Auto,Broker_2,Theft,7610.48,Closed,2024-08-12 05:28:33.639301,Minor water damage,2024-09-27 05:28:33.639301,1
+C00002,P10474,CU1300,TX,Life,Broker_3,Theft,2195.16,Closed,2025-04-07 05:28:33.639305,Minor water damage,2025-04-19 05:28:33.639305,1
+C00003,P10053,CU1160,TX,Homeowners,Broker_7,Theft,4269.75,Denied,2025-01-30 05:28:33.639308,Minor water damage,,0
+C00004,P10457,CU1303,CA,Life,Broker_3,Liability,8950.51,Closed,2025-06-21 05:28:33.639310,Theft with forced entry,2025-07-14 05:28:33.639310,1
+C00005,P10578,CU1855,NY,Homeowners,Broker_5,Fire,5825.59,Closed,2025-02-24 05:28:33.639314,Vehicle rear-ended,2025-03-07 05:28:33.639314,1
+C00006,P10419,CU1653,TX,Life,Broker_10,Liability,106.95,Open,2025-04-24 05:28:33.639316,Minor water damage,,0
+C00007,P10613,CU1249,TX,Homeowners,Broker_6,Flood,2052.68,Open,2024-11-23 05:28:33.639322,Minor water damage,,0
+C00008,P10631,CU1672,IL,Commercial,Broker_6,Liability,780.2,Open,2025-03-27 05:28:33.639329,Total loss due to fire,,0
+C00009,P10702,CU1276,IL,Homeowners,Broker_4,Liability,1326.16,Closed,2025-07-21 05:28:33.639334,Customer reported late,2025-08-24 05:28:33.639334,1
+C00010,P10408,CU1828,CA,Life,Broker_6,Flood,11795.22,Open,2025-04-02 05:28:33.639337,Customer reported late,,0
+C00011,P10981,CU1479,CA,Auto,Broker_3,Liability,187.96,Closed,2025-04-09 05:28:33.639340,Customer reported late,2025-05-29 05:28:33.639340,1
+C00012,P10303,CU1288,CA,Auto,Broker_7,Fire,1241.03,Closed,2025-04-15 05:28:33.639342,Adjuster flagged for review,2025-06-11 05:28:33.639342,1
+C00013,P10934,CU1406,IL,Life,Broker_7,Accident,1852.2,Open,2024-09-24 05:28:33.639345,Total loss due to fire,,0
+C00014,P10558,CU1891,IL,Auto,Broker_4,Flood,4797.09,Closed,2025-01-04 05:28:33.639348,Theft with forced entry,2025-02-09 05:28:33.639348,1
+C00015,P10221,CU1886,NY,Life,Broker_2,Theft,3818.94,Closed,2024-08-15 05:28:33.639350,Adjuster flagged for review,2024-09-11 05:28:33.639350,1
+C00016,P10532,CU1379,FL,Life,Broker_7,Fire,1231.23,Open,2025-03-03 05:28:33.639353,Total loss due to fire,,0
+C00017,P10157,CU1306,FL,Auto,Broker_3,Accident,897.08,Closed,2025-01-30 05:28:33.639358,Minor water damage,2025-02-18 05:28:33.639358,1
+C00018,P10347,CU1844,NY,Life,Broker_1,Fire,1351.16,Closed,2025-01-11 05:28:33.639362,Vehicle rear-ended,2025-02-06 05:28:33.639362,1
+C00019,P10158,CU1778,FL,Homeowners,Broker_2,Fire,3491.1,Closed,2025-05-16 05:28:33.639366,Adjuster flagged for review,2025-06-29 05:28:33.639366,1
+C00020,P10888,CU1656,IL,Auto,Broker_10,Theft,1581.63,Open,2024-09-24 05:28:33.639369,Adjuster flagged for review,,0
+C00021,P10883,CU1998,FL,Commercial,Broker_9,Accident,14744.48,Closed,2025-04-18 05:28:33.639374,Minor water damage,2025-06-12 05:28:33.639374,1
+C00022,P10921,CU1619,IL,Homeowners,Broker_8,Fire,3116.85,Pending,2024-10-25 05:28:33.639379,Minor water damage,,0
+C00023,P10234,CU1794,NY,Homeowners,Broker_6,Theft,302.98,Closed,2025-02-10 05:28:33.639381,Vehicle rear-ended,2025-04-01 05:28:33.639381,1
+C00024,P10661,CU1562,CA,Homeowners,Broker_6,Flood,6533.1,Open,2024-12-22 05:28:33.639384,Customer reported late,,0
+C00025,P10404,CU1397,NY,Auto,Broker_1,Theft,1993.78,Closed,2024-09-16 05:28:33.639386,Adjuster flagged for review,2024-11-02 05:28:33.639386,1
+C00026,P10256,CU1571,FL,Homeowners,Broker_2,Liability,5299.2,Closed,2025-05-05 05:28:33.639389,Total loss due to fire,2025-05-25 05:28:33.639389,1
+C00027,P10676,CU1911,IL,Life,Broker_4,Theft,1639.7,Closed,2024-11-01 05:28:33.639391,Theft with forced entry,2024-12-10 05:28:33.639391,1
+C00028,P10588,CU1778,FL,Life,Broker_3,Theft,4228.51,Closed,2025-02-28 05:28:33.639394,Minor water damage,2025-04-15 05:28:33.639394,1
+C00029,P10596,CU1000,FL,Life,Broker_1,Theft,7395.39,Closed,2025-01-11 05:28:33.639396,Minor water damage,2025-02-08 05:28:33.639396,1
+C00030,P10557,CU1403,CA,Auto,Broker_8,Fire,13156.05,Denied,2025-02-11 05:28:33.639400,Theft with forced entry,,0
+C00031,P10904,CU1757,FL,Homeowners,Broker_7,Accident,1513.15,Closed,2024-10-02 05:28:33.639404,Total loss due to fire,2024-11-07 05:28:33.639404,1
+C00032,P10912,CU1936,CA,Homeowners,Broker_4,Theft,2038.77,Closed,2024-12-27 05:28:33.639408,Minor water damage,2025-01-02 05:28:33.639408,1
+C00033,P10046,CU1370,IL,Commercial,Broker_9,Theft,3120.59,Open,2024-11-01 05:28:33.639412,Theft with forced entry,,0
+C00034,P10212,CU1648,IL,Commercial,Broker_4,Liability,13098.47,Denied,2025-05-10 05:28:33.639417,Minor water damage,,0
+C00035,P10478,CU1331,CA,Auto,Broker_1,Liability,11582.75,Pending,2025-06-17 05:28:33.639421,Customer reported late,,0
+C00036,P10486,CU1025,NY,Auto,Broker_10,Flood,470.88,Open,2025-02-15 05:28:33.639423,Customer reported late,,0
+C00037,P10570,CU1381,IL,Commercial,Broker_1,Flood,707.41,Closed,2025-01-25 05:28:33.639425,Minor water damage,2025-02-03 05:28:33.639425,1
+C00038,P10565,CU1703,NY,Life,Broker_1,Liability,3421.03,Open,2025-05-28 05:28:33.639428,Minor water damage,,0
+C00039,P10341,CU1459,IL,Life,Broker_1,Accident,563.71,Closed,2024-08-10 05:28:33.639430,Customer reported late,2024-09-17 05:28:33.639430,1
+C00040,P10523,CU1721,IL,Commercial,Broker_4,Flood,2120.04,Closed,2025-06-04 05:28:33.639432,Minor water damage,2025-06-28 05:28:33.639432,1
+C00041,P10703,CU1437,TX,Homeowners,Broker_1,Accident,803.11,Open,2024-09-03 05:28:33.639435,Total loss due to fire,,0
+C00042,P10502,CU1539,FL,Auto,Broker_2,Liability,5053.56,Denied,2025-03-03 05:28:33.639438,Total loss due to fire,,0
+C00043,P10005,CU1249,FL,Commercial,Broker_4,Flood,14928.46,Open,2025-07-23 05:28:33.639440,Vehicle rear-ended,,0
+C00044,P10820,CU1076,NY,Auto,Broker_7,Theft,28620.59,Closed,2025-05-10 05:28:33.639443,Total loss due to fire,2025-06-25 05:28:33.639443,1
+C00045,P10143,CU1043,FL,Auto,Broker_2,Liability,2351.95,Closed,2025-04-08 05:28:33.639445,Adjuster flagged for review,2025-05-13 05:28:33.639445,1
+C00046,P10857,CU1835,NY,Commercial,Broker_8,Flood,4569.13,Closed,2024-11-20 05:28:33.639447,Adjuster flagged for review,2025-01-18 05:28:33.639447,1
+C00047,P10260,CU1449,IL,Life,Broker_7,Accident,9699.01,Open,2025-07-17 05:28:33.639450,Adjuster flagged for review,,0
+C00048,P10584,CU1040,TX,Life,Broker_9,Accident,624.77,Open,2024-11-04 05:28:33.639452,Minor water damage,,0
+C00049,P10685,CU1832,TX,Life,Broker_6,Flood,5848.89,Closed,2024-11-03 05:28:33.639454,Minor water damage,2024-11-22 05:28:33.639454,1
+C00050,P10231,CU1570,IL,Commercial,Broker_4,Accident,2628.37,Closed,2025-02-26 05:28:33.639457,Theft with forced entry,2025-04-02 05:28:33.639457,1
+C00051,P10269,CU1130,CA,Life,Broker_6,Flood,1154.28,Open,2024-10-29 05:28:33.639459,Adjuster flagged for review,,0
+C00052,P10939,CU1760,CA,Life,Broker_4,Flood,2577.13,Open,2025-07-15 05:28:33.639462,Adjuster flagged for review,,0
+C00053,P10446,CU1669,FL,Life,Broker_7,Accident,395.0,Open,2024-12-31 05:28:33.639464,Total loss due to fire,,0
+C00054,P10873,CU1098,NY,Life,Broker_9,Fire,5943.9,Closed,2024-11-22 05:28:33.639468,Customer reported late,2025-01-07 05:28:33.639468,1
+C00055,P10221,CU1886,TX,Life,Broker_3,Theft,1456.73,Closed,2025-03-08 05:28:33.639472,Customer reported late,2025-04-04 05:28:33.639472,1
+C00056,P10051,CU1444,FL,Life,Broker_3,Liability,1865.51,Open,2025-04-20 05:28:33.639477,Vehicle rear-ended,,0
+C00057,P10115,CU1382,IL,Auto,Broker_2,Theft,645.31,Closed,2025-03-27 05:28:33.639481,Theft with forced entry,2025-04-12 05:28:33.639481,1
+C00058,P10537,CU1620,TX,Commercial,Broker_1,Liability,9999.79,Open,2024-10-29 05:28:33.639485,Customer reported late,,0
+C00059,P10564,CU1944,NY,Auto,Broker_1,Liability,3400.6,Pending,2024-09-28 05:28:33.639489,Vehicle rear-ended,,0
+C00060,P10876,CU1103,NY,Homeowners,Broker_3,Theft,4244.88,Pending,2025-02-19 05:28:33.639493,Total loss due to fire,,0
+C00061,P10540,CU1423,CA,Auto,Broker_7,Flood,4213.26,Closed,2024-11-10 05:28:33.639498,Theft with forced entry,2024-11-17 05:28:33.639498,1
+C00062,P10018,CU1671,FL,Homeowners,Broker_9,Accident,2642.34,Pending,2024-11-22 05:28:33.639502,Theft with forced entry,,0
+C00063,P10814,CU1645,IL,Auto,Broker_2,Fire,1069.25,Denied,2024-11-05 05:28:33.639504,Adjuster flagged for review,,0
+C00064,P10391,CU1979,TX,Homeowners,Broker_7,Fire,6835.06,Denied,2025-04-27 05:28:33.639507,Minor water damage,,0
+C00065,P10790,CU1154,NY,Life,Broker_1,Fire,679.42,Closed,2025-03-03 05:28:33.639509,Adjuster flagged for review,2025-03-20 05:28:33.639509,1
+C00066,P10628,CU1961,TX,Life,Broker_2,Theft,548.37,Closed,2025-01-21 05:28:33.639512,Total loss due to fire,2025-02-09 05:28:33.639512,1
+C00067,P10617,CU1858,IL,Commercial,Broker_6,Theft,6191.87,Open,2025-04-08 05:28:33.639515,Adjuster flagged for review,,0
+C00068,P10418,CU1088,TX,Life,Broker_5,Flood,1171.26,Closed,2025-05-29 05:28:33.639517,Theft with forced entry,2025-06-19 05:28:33.639517,1
+C00069,P10990,CU1319,FL,Homeowners,Broker_8,Fire,1831.99,Closed,2024-10-19 05:28:33.639519,Adjuster flagged for review,2024-12-02 05:28:33.639519,1
+C00070,P10308,CU1065,CA,Commercial,Broker_2,Flood,3223.95,Open,2025-06-12 05:28:33.639522,Vehicle rear-ended,,0
+C00071,P10738,CU1289,TX,Homeowners,Broker_1,Fire,2983.29,Open,2025-05-14 05:28:33.639525,Adjuster flagged for review,,0
+C00072,P10863,CU1636,CA,Homeowners,Broker_7,Theft,6164.93,Closed,2024-12-11 05:28:33.639529,Customer reported late,2024-12-16 05:28:33.639529,1
+C00073,P10185,CU1774,IL,Life,Broker_6,Accident,4883.28,Open,2024-09-27 05:28:33.639534,Total loss due to fire,,0
+C00074,P10260,CU1449,CA,Life,Broker_8,Accident,5169.69,Closed,2024-09-13 05:28:33.639537,Total loss due to fire,2024-09-19 05:28:33.639537,1
+C00075,P10527,CU1261,TX,Life,Broker_8,Accident,6259.77,Pending,2025-02-12 05:28:33.639542,Theft with forced entry,,0
+C00076,P10272,CU1797,TX,Life,Broker_2,Accident,1730.88,Closed,2024-11-28 05:28:33.639546,Adjuster flagged for review,2025-01-04 05:28:33.639546,1
+C00077,P10159,CU1503,NY,Auto,Broker_8,Liability,1945.5,Closed,2024-12-22 05:28:33.639551,Theft with forced entry,2025-01-28 05:28:33.639551,1
+C00078,P10869,CU1995,TX,Homeowners,Broker_6,Fire,2881.25,Closed,2024-09-11 05:28:33.639553,Theft with forced entry,2024-10-22 05:28:33.639553,1
+C00079,P10761,CU1394,CA,Commercial,Broker_9,Accident,1836.96,Closed,2025-01-26 05:28:33.639556,Vehicle rear-ended,2025-03-19 05:28:33.639556,1
+C00080,P10223,CU1669,NY,Homeowners,Broker_7,Liability,20977.86,Open,2025-06-21 05:28:33.639558,Minor water damage,,0
+C00081,P10255,CU1210,TX,Homeowners,Broker_2,Liability,8411.44,Denied,2025-05-30 05:28:33.639562,Theft with forced entry,,0
+C00082,P10179,CU1553,TX,Homeowners,Broker_8,Liability,899.55,Open,2024-12-09 05:28:33.639566,Minor water damage,,0
+C00083,P10019,CU1759,IL,Homeowners,Broker_9,Flood,28.05,Open,2024-08-24 05:28:33.639570,Minor water damage,,0
+C00084,P10623,CU1688,NY,Homeowners,Broker_7,Flood,218.63,Closed,2025-02-06 05:28:33.639574,Total loss due to fire,2025-03-10 05:28:33.639574,1
+C00085,P10631,CU1672,IL,Commercial,Broker_4,Liability,1398.99,Open,2024-12-20 05:28:33.639578,Customer reported late,,0
+C00086,P10705,CU1657,IL,Homeowners,Broker_9,Accident,606.84,Closed,2025-07-22 05:28:33.639580,Customer reported late,2025-08-09 05:28:33.639580,1
+C00087,P10467,CU1034,IL,Homeowners,Broker_4,Fire,3810.75,Open,2025-03-16 05:28:33.639583,Adjuster flagged for review,,0
+C00088,P10622,CU1726,FL,Homeowners,Broker_4,Theft,9759.47,Open,2025-03-06 05:28:33.639585,Vehicle rear-ended,,0
+C00089,P10209,CU1757,IL,Life,Broker_9,Flood,6673.26,Open,2025-07-17 05:28:33.639588,Vehicle rear-ended,,0
+C00090,P10512,CU1161,CA,Commercial,Broker_8,Accident,1214.24,Open,2024-10-15 05:28:33.639590,Customer reported late,,0
+C00091,P10057,CU1894,TX,Homeowners,Broker_4,Accident,2548.29,Closed,2025-06-03 05:28:33.639593,Adjuster flagged for review,2025-07-24 05:28:33.639593,1
+C00092,P10092,CU1879,FL,Commercial,Broker_8,Theft,3545.31,Denied,2025-03-22 05:28:33.639596,Customer reported late,,0
+C00093,P10220,CU1108,IL,Life,Broker_8,Theft,8309.08,Closed,2024-12-17 05:28:33.639600,Adjuster flagged for review,2025-02-08 05:28:33.639600,1
+C00094,P10722,CU1171,TX,Commercial,Broker_7,Accident,9135.53,Denied,2024-09-29 05:28:33.639605,Adjuster flagged for review,,0
+C00095,P10939,CU1760,NY,Life,Broker_10,Theft,12024.1,Open,2025-07-03 05:28:33.639609,Adjuster flagged for review,,0
+C00096,P10231,CU1570,NY,Commercial,Broker_6,Accident,3559.05,Closed,2025-05-30 05:28:33.639613,Adjuster flagged for review,2025-06-26 05:28:33.639613,1
+C00097,P10773,CU1485,TX,Life,Broker_8,Theft,5925.34,Open,2024-11-17 05:28:33.639616,Total loss due to fire,,0
+C00098,P10363,CU1611,CA,Life,Broker_7,Theft,592.79,Closed,2024-12-29 05:28:33.639620,Total loss due to fire,2025-02-06 05:28:33.639620,1
+C00099,P10614,CU1452,TX,Auto,Broker_5,Accident,4165.37,Closed,2024-10-08 05:28:33.639625,Customer reported late,2024-10-28 05:28:33.639625,1
+C00100,P10561,CU1806,TX,Homeowners,Broker_4,Liability,1429.7,Closed,2025-02-08 05:28:33.639630,Adjuster flagged for review,2025-04-09 05:28:33.639630,1
+C00101,P10373,CU1880,FL,Auto,Broker_2,Accident,2825.68,Closed,2025-04-10 05:28:33.639633,Theft with forced entry,2025-05-06 05:28:33.639633,1
+C00102,P10621,CU1430,NY,Life,Broker_8,Fire,5026.3,Closed,2025-04-16 05:28:33.639636,Adjuster flagged for review,2025-06-08 05:28:33.639636,1
+C00103,P10455,CU1660,NY,Life,Broker_9,Theft,1485.2,Closed,2024-12-20 05:28:33.639638,Theft with forced entry,2024-12-25 05:28:33.639638,1
+C00104,P10087,CU1056,IL,Auto,Broker_4,Flood,267.98,Pending,2025-02-20 05:28:33.639640,Total loss due to fire,,0
+C00105,P10019,CU1759,TX,Homeowners,Broker_4,Theft,51.43,Open,2025-06-30 05:28:33.639643,Adjuster flagged for review,,0
+C00106,P10013,CU1518,TX,Commercial,Broker_5,Fire,112.04,Closed,2024-11-25 05:28:33.639645,Minor water damage,2024-12-20 05:28:33.639645,1
+C00107,P10132,CU1057,CA,Auto,Broker_2,Flood,41.92,Closed,2024-10-24 05:28:33.639647,Customer reported late,2024-12-23 05:28:33.639647,1
+C00108,P10936,CU1922,NY,Commercial,Broker_7,Flood,584.66,Closed,2025-05-28 05:28:33.639650,Adjuster flagged for review,2025-06-13 05:28:33.639650,1
+C00109,P10807,CU1124,CA,Homeowners,Broker_5,Accident,1368.82,Open,2024-12-08 05:28:33.639653,Vehicle rear-ended,,0
+C00110,P10033,CU1312,FL,Auto,Broker_6,Liability,1250.14,Closed,2024-09-12 05:28:33.639655,Theft with forced entry,2024-11-07 05:28:33.639655,1
+C00111,P10891,CU1885,IL,Life,Broker_4,Accident,21636.4,Closed,2025-05-17 05:28:33.639658,Adjuster flagged for review,2025-05-22 05:28:33.639658,1
+C00112,P10207,CU1965,CA,Commercial,Broker_8,Flood,1826.46,Closed,2025-01-17 05:28:33.639660,Minor water damage,2025-03-05 05:28:33.639660,1
+C00113,P10812,CU1034,NY,Commercial,Broker_8,Flood,681.51,Open,2024-08-13 05:28:33.639662,Theft with forced entry,,0
+C00114,P10198,CU1519,FL,Commercial,Broker_5,Liability,3943.47,Pending,2025-03-02 05:28:33.639665,Minor water damage,,0
+C00115,P10591,CU1906,TX,Commercial,Broker_6,Theft,9758.14,Closed,2024-11-18 05:28:33.639667,Customer reported late,2024-12-31 05:28:33.639667,1
+C00116,P10582,CU1934,FL,Homeowners,Broker_3,Liability,5666.96,Closed,2025-03-30 05:28:33.639669,Customer reported late,2025-05-25 05:28:33.639669,1
+C00117,P10154,CU1426,CA,Homeowners,Broker_1,Accident,1755.47,Closed,2024-12-26 05:28:33.639672,Customer reported late,2025-01-19 05:28:33.639672,1
+C00118,P10589,CU1493,NY,Auto,Broker_9,Theft,4123.3,Denied,2024-08-13 05:28:33.639675,Total loss due to fire,,0
+C00119,P10077,CU1493,CA,Commercial,Broker_9,Accident,6273.8,Open,2025-02-27 05:28:33.639677,Minor water damage,,0
+C00120,P10171,CU1566,TX,Homeowners,Broker_3,Liability,6511.69,Open,2025-04-15 05:28:33.639679,Adjuster flagged for review,,0
+C00121,P10288,CU1313,TX,Life,Broker_4,Theft,5491.14,Closed,2025-06-12 05:28:33.639682,Vehicle rear-ended,2025-06-25 05:28:33.639682,1
+C00122,P10544,CU1748,NY,Auto,Broker_7,Liability,10232.37,Closed,2024-10-22 05:28:33.639684,Vehicle rear-ended,2024-11-07 05:28:33.639684,1
+C00123,P10811,CU1868,IL,Commercial,Broker_2,Fire,10205.16,Open,2024-11-12 05:28:33.639687,Customer reported late,,0
+C00124,P10787,CU1556,FL,Auto,Broker_3,Flood,4324.86,Pending,2024-09-03 05:28:33.639689,Vehicle rear-ended,,0
+C00125,P10878,CU1760,FL,Homeowners,Broker_6,Theft,2809.33,Closed,2024-11-05 05:28:33.639692,Theft with forced entry,2024-12-10 05:28:33.639692,1
+C00126,P10419,CU1653,TX,Life,Broker_8,Flood,5130.11,Closed,2025-05-27 05:28:33.639694,Minor water damage,2025-07-05 05:28:33.639694,1
+C00127,P10006,CU1874,CA,Auto,Broker_1,Fire,8524.57,Open,2024-08-21 05:28:33.639696,Minor water damage,,0
+C00128,P10159,CU1503,CA,Auto,Broker_4,Theft,28.34,Open,2024-10-23 05:28:33.639699,Minor water damage,,0
+C00129,P10239,CU1195,IL,Life,Broker_1,Flood,24139.7,Closed,2024-08-12 05:28:33.639702,Theft with forced entry,2024-09-12 05:28:33.639702,1
+C00130,P10962,CU1848,CA,Life,Broker_2,Flood,1009.93,Pending,2024-11-21 05:28:33.639704,Adjuster flagged for review,,0
+C00131,P10422,CU1738,FL,Commercial,Broker_8,Theft,3176.74,Closed,2024-11-14 05:28:33.639707,Total loss due to fire,2024-12-25 05:28:33.639707,1
+C00132,P10988,CU1905,CA,Auto,Broker_6,Flood,10279.79,Pending,2025-02-19 05:28:33.639709,Theft with forced entry,,0
+C00133,P10535,CU1440,IL,Homeowners,Broker_9,Flood,1274.72,Denied,2024-09-19 05:28:33.639711,Minor water damage,,0
+C00134,P10725,CU1062,FL,Life,Broker_2,Theft,3238.91,Closed,2025-03-18 05:28:33.639714,Minor water damage,2025-05-01 05:28:33.639714,1
+C00135,P10069,CU1042,CA,Life,Broker_3,Flood,711.17,Closed,2024-11-03 05:28:33.639716,Minor water damage,2024-12-09 05:28:33.639716,1
+C00136,P10879,CU1663,FL,Life,Broker_9,Flood,2513.26,Closed,2025-01-16 05:28:33.639719,Adjuster flagged for review,2025-03-12 05:28:33.639719,1
+C00137,P10215,CU1813,TX,Homeowners,Broker_9,Accident,974.82,Closed,2024-08-24 05:28:33.639721,Vehicle rear-ended,2024-09-20 05:28:33.639721,1
+C00138,P10103,CU1649,TX,Homeowners,Broker_6,Accident,2259.86,Open,2024-10-25 05:28:33.639723,Total loss due to fire,,0
+C00139,P10726,CU1022,TX,Commercial,Broker_3,Fire,2337.75,Closed,2024-11-01 05:28:33.639726,Theft with forced entry,2024-12-07 05:28:33.639726,1
+C00140,P10053,CU1160,CA,Homeowners,Broker_5,Accident,24932.73,Open,2025-05-13 05:28:33.639728,Minor water damage,,0
+C00141,P10805,CU1484,IL,Homeowners,Broker_2,Accident,26308.03,Denied,2024-08-31 05:28:33.639730,Customer reported late,,0
+C00142,P10329,CU1814,FL,Auto,Broker_7,Fire,609.63,Denied,2025-06-15 05:28:33.639733,Total loss due to fire,,0
+C00143,P10847,CU1562,NY,Life,Broker_10,Flood,6472.57,Open,2024-09-09 05:28:33.639735,Customer reported late,,0
+C00144,P10202,CU1687,TX,Commercial,Broker_8,Flood,265.66,Closed,2025-06-22 05:28:33.639738,Total loss due to fire,2025-08-06 05:28:33.639738,1
+C00145,P10287,CU1337,TX,Life,Broker_6,Accident,153.29,Closed,2024-09-06 05:28:33.639740,Minor water damage,2024-11-02 05:28:33.639740,1
+C00146,P10044,CU1304,NY,Commercial,Broker_8,Fire,556.52,Closed,2024-12-02 05:28:33.639742,Total loss due to fire,2024-12-27 05:28:33.639742,1
+C00147,P10828,CU1277,NY,Homeowners,Broker_2,Flood,16831.9,Open,2025-02-03 05:28:33.639746,Total loss due to fire,,0
+C00148,P10197,CU1128,CA,Life,Broker_3,Liability,14139.54,Closed,2024-12-25 05:28:33.639751,Minor water damage,2025-02-19 05:28:33.639751,1
+C00149,P10215,CU1813,FL,Homeowners,Broker_7,Theft,1077.91,Open,2025-03-17 05:28:33.639755,Adjuster flagged for review,,0
+C00150,P10480,CU1587,TX,Auto,Broker_10,Theft,881.73,Open,2025-02-14 05:28:33.639760,Customer reported late,,0
+C00151,P10308,CU1065,IL,Commercial,Broker_1,Theft,1375.71,Open,2025-07-08 05:28:33.639764,Adjuster flagged for review,,0
+C00152,P10895,CU1116,CA,Auto,Broker_7,Accident,3623.67,Open,2024-08-05 05:28:33.639766,Customer reported late,,0
+C00153,P10434,CU1621,CA,Homeowners,Broker_6,Theft,4216.42,Closed,2025-04-03 05:28:33.639769,Vehicle rear-ended,2025-05-31 05:28:33.639769,1
+C00154,P10331,CU1142,IL,Life,Broker_8,Theft,1252.53,Pending,2025-01-02 05:28:33.639771,Customer reported late,,0
+C00155,P10695,CU1222,IL,Life,Broker_7,Liability,7065.71,Closed,2025-07-20 05:28:33.639773,Customer reported late,2025-08-14 05:28:33.639773,1
+C00156,P10026,CU1916,IL,Life,Broker_4,Flood,1852.08,Closed,2025-03-09 05:28:33.639776,Total loss due to fire,2025-04-30 05:28:33.639776,1
+C00157,P10165,CU1475,NY,Commercial,Broker_3,Liability,12763.66,Open,2025-03-04 05:28:33.639778,Vehicle rear-ended,,0
+C00158,P10317,CU1659,TX,Auto,Broker_3,Accident,5346.08,Closed,2025-07-11 05:28:33.639780,Minor water damage,2025-07-29 05:28:33.639780,1
+C00159,P10273,CU1985,NY,Homeowners,Broker_4,Theft,2866.62,Open,2025-05-01 05:28:33.639783,Minor water damage,,0
+C00160,P10382,CU1943,TX,Life,Broker_9,Flood,7801.14,Closed,2024-10-22 05:28:33.639785,Theft with forced entry,2024-12-06 05:28:33.639785,1
+C00161,P10364,CU1500,NY,Life,Broker_9,Theft,8516.4,Pending,2025-02-01 05:28:33.639788,Vehicle rear-ended,,0
+C00162,P10102,CU1570,FL,Commercial,Broker_2,Theft,1715.84,Open,2025-03-29 05:28:33.639790,Total loss due to fire,,0
+C00163,P10959,CU1839,TX,Commercial,Broker_5,Accident,2075.42,Closed,2025-07-29 05:28:33.639793,Theft with forced entry,2025-09-15 05:28:33.639793,1
+C00164,P10502,CU1539,CA,Auto,Broker_1,Theft,13740.86,Open,2024-08-04 05:28:33.639795,Theft with forced entry,,0
+C00165,P10844,CU1353,TX,Homeowners,Broker_4,Fire,900.07,Closed,2025-01-07 05:28:33.639808,Minor water damage,2025-02-04 05:28:33.639808,1
+C00166,P10372,CU1595,TX,Homeowners,Broker_2,Flood,215.32,Open,2025-06-16 05:28:33.639811,Customer reported late,,0
+C00167,P10615,CU1519,TX,Life,Broker_8,Flood,3026.19,Closed,2025-02-19 05:28:33.639813,Total loss due to fire,2025-03-22 05:28:33.639813,1
+C00168,P10925,CU1581,FL,Auto,Broker_4,Fire,8077.53,Open,2025-02-22 05:28:33.639815,Vehicle rear-ended,,0
+C00169,P10244,CU1381,NY,Commercial,Broker_5,Accident,7384.78,Closed,2024-10-12 05:28:33.639818,Theft with forced entry,2024-11-25 05:28:33.639818,1
+C00170,P10816,CU1785,CA,Life,Broker_4,Theft,12599.39,Closed,2024-11-28 05:28:33.639820,Total loss due to fire,2024-12-26 05:28:33.639820,1
+C00171,P10168,CU1484,NY,Life,Broker_5,Theft,3809.28,Closed,2024-10-17 05:28:33.639822,Minor water damage,2024-12-03 05:28:33.639822,1
+C00172,P10627,CU1657,NY,Life,Broker_5,Flood,527.16,Closed,2024-08-21 05:28:33.639827,Theft with forced entry,2024-10-01 05:28:33.639827,1
+C00173,P10652,CU1104,IL,Auto,Broker_5,Accident,4442.03,Pending,2024-08-14 05:28:33.639834,Theft with forced entry,,0
+C00174,P10417,CU1819,FL,Homeowners,Broker_3,Accident,7534.31,Closed,2024-08-06 05:28:33.639838,Adjuster flagged for review,2024-08-15 05:28:33.639838,1
+C00175,P10355,CU1406,IL,Commercial,Broker_7,Accident,489.87,Open,2024-08-06 05:28:33.639843,Minor water damage,,0
+C00176,P10477,CU1423,FL,Auto,Broker_3,Theft,947.68,Open,2024-08-17 05:28:33.639847,Adjuster flagged for review,,0
+C00177,P10124,CU1078,NY,Auto,Broker_2,Accident,61.83,Denied,2024-12-09 05:28:33.639850,Minor water damage,,0
+C00178,P10536,CU1092,NY,Auto,Broker_3,Fire,4502.73,Closed,2024-09-19 05:28:33.639855,Minor water damage,2024-11-04 05:28:33.639855,1
+C00179,P10705,CU1657,FL,Homeowners,Broker_3,Liability,10890.1,Closed,2025-02-12 05:28:33.639858,Adjuster flagged for review,2025-03-17 05:28:33.639858,1
+C00180,P10895,CU1116,NY,Auto,Broker_8,Accident,5553.37,Open,2024-12-08 05:28:33.639862,Total loss due to fire,,0
+C00181,P10611,CU1102,NY,Auto,Broker_4,Liability,20098.07,Closed,2025-07-18 05:28:33.639867,Total loss due to fire,2025-07-24 05:28:33.639867,1
+C00182,P10401,CU1507,CA,Homeowners,Broker_3,Theft,325.54,Open,2024-08-01 05:28:33.639871,Total loss due to fire,,0
+C00183,P10516,CU1768,IL,Commercial,Broker_10,Accident,11665.28,Pending,2024-09-24 05:28:33.639875,Customer reported late,,0
+C00184,P10530,CU1647,IL,Auto,Broker_5,Flood,8411.88,Denied,2025-03-26 05:28:33.639879,Theft with forced entry,,0
+C00185,P10681,CU1936,IL,Auto,Broker_4,Theft,1886.15,Open,2024-09-06 05:28:33.639881,Total loss due to fire,,0
+C00186,P10785,CU1578,TX,Auto,Broker_9,Fire,18158.07,Closed,2024-12-17 05:28:33.639883,Customer reported late,2025-01-10 05:28:33.639883,1
+C00187,P10253,CU1433,CA,Life,Broker_8,Fire,1697.95,Open,2025-05-05 05:28:33.639885,Theft with forced entry,,0
+C00188,P10120,CU1654,IL,Life,Broker_7,Liability,11004.87,Closed,2025-06-02 05:28:33.639888,Total loss due to fire,2025-07-19 05:28:33.639888,1
+C00189,P10031,CU1895,IL,Life,Broker_8,Liability,10632.61,Denied,2024-09-09 05:28:33.639890,Minor water damage,,0
+C00190,P10660,CU1209,CA,Homeowners,Broker_5,Flood,7087.02,Closed,2025-05-03 05:28:33.639893,Vehicle rear-ended,2025-05-23 05:28:33.639893,1
+C00191,P10777,CU1624,NY,Commercial,Broker_4,Flood,4144.5,Closed,2025-05-13 05:28:33.639895,Total loss due to fire,2025-07-02 05:28:33.639895,1
+C00192,P10036,CU1020,IL,Commercial,Broker_7,Fire,639.18,Open,2024-12-23 05:28:33.639897,Vehicle rear-ended,,0
+C00193,P10688,CU1974,NY,Commercial,Broker_1,Accident,3796.13,Denied,2025-04-05 05:28:33.639900,Total loss due to fire,,0
+C00194,P10341,CU1459,IL,Life,Broker_6,Fire,2206.47,Closed,2024-10-20 05:28:33.639902,Minor water damage,2024-11-12 05:28:33.639902,1
+C00195,P10012,CU1986,FL,Auto,Broker_8,Fire,7856.31,Closed,2025-05-04 05:28:33.639904,Vehicle rear-ended,2025-05-23 05:28:33.639904,1
+C00196,P10182,CU1453,TX,Homeowners,Broker_7,Flood,7096.76,Open,2025-07-10 05:28:33.639907,Customer reported late,,0
+C00197,P10656,CU1842,IL,Commercial,Broker_2,Liability,12073.87,Closed,2025-06-26 05:28:33.639909,Minor water damage,2025-08-14 05:28:33.639909,1
+C00198,P10264,CU1456,FL,Homeowners,Broker_7,Flood,74.71,Pending,2025-02-09 05:28:33.639911,Vehicle rear-ended,,0
+C00199,P10087,CU1056,CA,Auto,Broker_6,Flood,8280.11,Closed,2024-11-15 05:28:33.639914,Vehicle rear-ended,2024-12-17 05:28:33.639914,1
+C00200,P10939,CU1760,FL,Life,Broker_5,Flood,13940.51,Closed,2025-01-24 05:28:33.639918,Adjuster flagged for review,2025-02-12 05:28:33.639918,1
+C00201,P10461,CU1683,CA,Commercial,Broker_4,Fire,7786.61,Closed,2024-11-02 05:28:33.639924,Adjuster flagged for review,2024-11-28 05:28:33.639924,1
+C00202,P10045,CU1914,IL,Auto,Broker_1,Accident,697.43,Closed,2024-10-22 05:28:33.639928,Minor water damage,2024-12-12 05:28:33.639928,1
+C00203,P10391,CU1979,CA,Homeowners,Broker_2,Fire,423.86,Closed,2025-04-08 05:28:33.639932,Minor water damage,2025-05-16 05:28:33.639932,1
+C00204,P10118,CU1883,FL,Auto,Broker_7,Theft,105.33,Open,2024-07-29 05:28:33.639935,Minor water damage,,0
+C00205,P10932,CU1957,TX,Commercial,Broker_10,Flood,4954.33,Closed,2025-04-04 05:28:33.639938,Theft with forced entry,2025-04-17 05:28:33.639938,1
+C00206,P10530,CU1647,NY,Auto,Broker_3,Flood,4966.84,Closed,2025-03-09 05:28:33.639940,Customer reported late,2025-04-02 05:28:33.639940,1
+C00207,P10446,CU1669,NY,Life,Broker_5,Theft,21680.95,Closed,2025-02-09 05:28:33.639942,Total loss due to fire,2025-03-10 05:28:33.639942,1
+C00208,P10731,CU1824,TX,Life,Broker_8,Flood,2537.85,Denied,2025-06-14 05:28:33.639945,Adjuster flagged for review,,0
+C00209,P10941,CU1753,NY,Life,Broker_8,Flood,2016.63,Closed,2025-05-03 05:28:33.639950,Vehicle rear-ended,2025-05-26 05:28:33.639950,1
+C00210,P10744,CU1420,IL,Homeowners,Broker_6,Flood,4896.48,Open,2025-06-11 05:28:33.639953,Adjuster flagged for review,,0
+C00211,P10605,CU1267,IL,Homeowners,Broker_5,Theft,8732.27,Pending,2025-01-06 05:28:33.639957,Total loss due to fire,,0
+C00212,P10966,CU1863,FL,Homeowners,Broker_2,Fire,13805.19,Closed,2025-06-09 05:28:33.639961,Minor water damage,2025-06-20 05:28:33.639961,1
+C00213,P10762,CU1816,FL,Commercial,Broker_9,Flood,8125.91,Closed,2024-12-15 05:28:33.639965,Adjuster flagged for review,2025-01-20 05:28:33.639965,1
+C00214,P10761,CU1394,CA,Commercial,Broker_1,Accident,2781.5,Closed,2024-12-21 05:28:33.639969,Customer reported late,2025-02-14 05:28:33.639969,1
+C00215,P10793,CU1447,FL,Auto,Broker_2,Theft,5038.11,Closed,2025-02-02 05:28:33.639973,Customer reported late,2025-03-17 05:28:33.639973,1
+C00216,P10743,CU1195,IL,Commercial,Broker_1,Liability,9700.11,Open,2024-08-08 05:28:33.639977,Theft with forced entry,,0
+C00217,P10045,CU1914,FL,Auto,Broker_4,Theft,3372.7,Closed,2025-07-28 05:28:33.639980,Adjuster flagged for review,2025-08-23 05:28:33.639980,1
+C00218,P10885,CU1519,NY,Homeowners,Broker_4,Fire,1221.11,Denied,2024-12-19 05:28:33.639984,Minor water damage,,0
+C00219,P10507,CU1578,CA,Commercial,Broker_5,Theft,929.98,Closed,2025-05-31 05:28:33.639988,Vehicle rear-ended,2025-06-25 05:28:33.639988,1
+C00220,P10557,CU1403,CA,Auto,Broker_5,Liability,0.79,Closed,2024-12-09 05:28:33.639992,Theft with forced entry,2024-12-20 05:28:33.639992,1
+C00221,P10970,CU1805,IL,Homeowners,Broker_8,Accident,6333.46,Open,2025-02-23 05:28:33.639996,Minor water damage,,0
+C00222,P10525,CU1572,FL,Life,Broker_3,Liability,588.84,Open,2025-01-31 05:28:33.640000,Theft with forced entry,,0
+C00223,P10596,CU1000,NY,Life,Broker_6,Theft,1397.51,Closed,2025-03-16 05:28:33.640005,Adjuster flagged for review,2025-04-07 05:28:33.640005,1
+C00224,P10830,CU1068,FL,Life,Broker_3,Liability,1768.23,Closed,2025-04-21 05:28:33.640009,Total loss due to fire,2025-04-30 05:28:33.640009,1
+C00225,P10839,CU1378,TX,Homeowners,Broker_2,Theft,4109.22,Pending,2025-01-25 05:28:33.640013,Adjuster flagged for review,,0
+C00226,P10002,CU1618,FL,Auto,Broker_8,Accident,2537.13,Closed,2024-12-15 05:28:33.640017,Minor water damage,2025-01-15 05:28:33.640017,1
+C00227,P10027,CU1425,IL,Life,Broker_1,Accident,5614.64,Closed,2025-07-01 05:28:33.640021,Vehicle rear-ended,2025-07-13 05:28:33.640021,1
+C00228,P10380,CU1726,FL,Homeowners,Broker_9,Fire,286.23,Closed,2025-07-07 05:28:33.640025,Vehicle rear-ended,2025-08-26 05:28:33.640025,1
+C00229,P10156,CU1708,CA,Homeowners,Broker_7,Accident,661.6,Open,2025-05-02 05:28:33.640029,Minor water damage,,0
+C00230,P10854,CU1299,NY,Auto,Broker_10,Flood,3457.86,Pending,2025-05-25 05:28:33.640032,Theft with forced entry,,0
+C00231,P10913,CU1557,IL,Commercial,Broker_4,Liability,2054.64,Closed,2025-05-12 05:28:33.640036,Customer reported late,2025-07-05 05:28:33.640036,1
+C00232,P10930,CU1586,TX,Auto,Broker_3,Liability,1753.56,Open,2025-03-28 05:28:33.640041,Minor water damage,,0
+C00233,P10510,CU1193,NY,Homeowners,Broker_6,Theft,346.9,Closed,2024-08-27 05:28:33.640046,Adjuster flagged for review,2024-09-05 05:28:33.640046,1
+C00234,P10332,CU1190,NY,Homeowners,Broker_9,Accident,11303.34,Denied,2024-12-18 05:28:33.640051,Vehicle rear-ended,,0
+C00235,P10843,CU1553,CA,Life,Broker_9,Fire,5885.33,Denied,2024-08-02 05:28:33.640055,Total loss due to fire,,0
+C00236,P10686,CU1310,CA,Commercial,Broker_4,Fire,648.37,Open,2025-07-04 05:28:33.640059,Vehicle rear-ended,,0
+C00237,P10113,CU1531,CA,Auto,Broker_10,Fire,336.29,Denied,2025-02-21 05:28:33.640063,Customer reported late,,0
+C00238,P10388,CU1274,IL,Life,Broker_5,Flood,18418.97,Open,2024-09-09 05:28:33.640067,Vehicle rear-ended,,0
+C00239,P10486,CU1025,FL,Auto,Broker_9,Accident,5715.53,Open,2025-06-05 05:28:33.640071,Customer reported late,,0
+C00240,P10842,CU1898,NY,Commercial,Broker_2,Fire,2701.75,Denied,2025-05-04 05:28:33.640075,Minor water damage,,0
+C00241,P10249,CU1476,FL,Auto,Broker_2,Flood,6048.8,Denied,2025-06-20 05:28:33.640079,Vehicle rear-ended,,0
+C00242,P10570,CU1381,FL,Commercial,Broker_5,Liability,7059.74,Closed,2024-11-28 05:28:33.640101,Theft with forced entry,2025-01-17 05:28:33.640101,1
+C00243,P10714,CU1029,CA,Commercial,Broker_1,Theft,7569.78,Closed,2025-04-16 05:28:33.640105,Adjuster flagged for review,2025-06-07 05:28:33.640105,1
+C00244,P10314,CU1934,FL,Auto,Broker_8,Accident,3249.26,Denied,2025-04-24 05:28:33.640110,Theft with forced entry,,0
+C00245,P10238,CU1352,NY,Auto,Broker_5,Accident,2809.57,Closed,2025-07-22 05:28:33.640114,Adjuster flagged for review,2025-09-12 05:28:33.640114,1
+C00246,P10233,CU1639,NY,Life,Broker_10,Liability,55.45,Denied,2025-02-23 05:28:33.640116,Vehicle rear-ended,,0
+C00247,P10302,CU1930,TX,Homeowners,Broker_2,Accident,13056.24,Closed,2025-06-13 05:28:33.640119,Vehicle rear-ended,2025-07-16 05:28:33.640119,1
+C00248,P10606,CU1444,IL,Homeowners,Broker_9,Accident,4622.97,Pending,2025-06-28 05:28:33.640121,Adjuster flagged for review,,0
+C00249,P10990,CU1319,FL,Homeowners,Broker_2,Accident,1135.47,Pending,2025-03-19 05:28:33.640123,Total loss due to fire,,0
+C00250,P10652,CU1104,IL,Auto,Broker_7,Accident,12603.92,Open,2025-05-17 05:28:33.640126,Vehicle rear-ended,,0
+C00251,P10333,CU1532,IL,Commercial,Broker_8,Flood,12321.52,Denied,2024-11-15 05:28:33.640128,Total loss due to fire,,0
+C00252,P10112,CU1276,IL,Life,Broker_6,Flood,22633.72,Closed,2025-04-01 05:28:33.640131,Total loss due to fire,2025-05-22 05:28:33.640131,1
+C00253,P10620,CU1669,IL,Homeowners,Broker_7,Theft,10359.61,Closed,2024-12-22 05:28:33.640133,Adjuster flagged for review,2025-01-13 05:28:33.640133,1
+C00254,P10361,CU1549,NY,Auto,Broker_1,Accident,30561.13,Closed,2025-07-09 05:28:33.640136,Total loss due to fire,2025-08-17 05:28:33.640136,1
+C00255,P10856,CU1358,FL,Commercial,Broker_4,Liability,1403.11,Open,2024-10-06 05:28:33.640140,Total loss due to fire,,0
+C00256,P10800,CU1124,TX,Life,Broker_7,Fire,9233.71,Closed,2025-01-24 05:28:33.640146,Minor water damage,2025-02-28 05:28:33.640146,1
+C00257,P10096,CU1085,IL,Homeowners,Broker_1,Theft,8658.83,Denied,2025-04-22 05:28:33.640150,Theft with forced entry,,0
+C00258,P10957,CU1510,TX,Life,Broker_1,Fire,1312.93,Open,2024-08-09 05:28:33.640154,Total loss due to fire,,0
+C00259,P10846,CU1108,NY,Commercial,Broker_6,Fire,518.13,Closed,2024-08-24 05:28:33.640159,Theft with forced entry,2024-09-18 05:28:33.640159,1
+C00260,P10015,CU1638,NY,Homeowners,Broker_4,Accident,19417.3,Pending,2025-06-23 05:28:33.640163,Total loss due to fire,,0
+C00261,P10555,CU1135,CA,Homeowners,Broker_3,Liability,1755.06,Closed,2025-03-31 05:28:33.640168,Theft with forced entry,2025-04-29 05:28:33.640168,1
+C00262,P10953,CU1902,IL,Life,Broker_5,Fire,10235.52,Closed,2025-05-01 05:28:33.640172,Vehicle rear-ended,2025-05-22 05:28:33.640172,1
+C00263,P10375,CU1423,CA,Life,Broker_9,Fire,20.68,Closed,2024-08-13 05:28:33.640176,Vehicle rear-ended,2024-08-31 05:28:33.640176,1
+C00264,P10741,CU1932,TX,Life,Broker_10,Theft,106.24,Closed,2024-08-17 05:28:33.640178,Theft with forced entry,2024-10-11 05:28:33.640178,1
+C00265,P10389,CU1712,FL,Homeowners,Broker_10,Liability,3135.59,Closed,2025-04-16 05:28:33.640181,Total loss due to fire,2025-06-15 05:28:33.640181,1
+C00266,P10619,CU1342,CA,Commercial,Broker_10,Liability,1363.74,Denied,2024-10-06 05:28:33.640183,Minor water damage,,0
+C00267,P10216,CU1886,NY,Commercial,Broker_3,Fire,5853.36,Closed,2025-02-04 05:28:33.640186,Theft with forced entry,2025-03-20 05:28:33.640186,1
+C00268,P10398,CU1635,IL,Life,Broker_5,Liability,4168.54,Denied,2025-06-13 05:28:33.640188,Customer reported late,,0
+C00269,P10259,CU1394,TX,Homeowners,Broker_10,Theft,403.26,Closed,2024-08-13 05:28:33.640191,Minor water damage,2024-08-24 05:28:33.640191,1
+C00270,P10823,CU1637,NY,Commercial,Broker_5,Theft,887.44,Closed,2025-02-18 05:28:33.640193,Customer reported late,2025-03-09 05:28:33.640193,1
+C00271,P10319,CU1000,FL,Life,Broker_9,Theft,2455.52,Closed,2024-09-05 05:28:33.640196,Theft with forced entry,2024-09-22 05:28:33.640196,1
+C00272,P10195,CU1928,IL,Life,Broker_10,Accident,1026.54,Closed,2024-08-14 05:28:33.640198,Total loss due to fire,2024-09-14 05:28:33.640198,1
+C00273,P10477,CU1423,FL,Auto,Broker_4,Fire,7856.43,Closed,2024-10-26 05:28:33.640200,Customer reported late,2024-12-21 05:28:33.640200,1
+C00274,P10417,CU1819,FL,Homeowners,Broker_1,Liability,2689.87,Open,2025-07-25 05:28:33.640203,Theft with forced entry,,0
+C00275,P10474,CU1300,IL,Life,Broker_10,Theft,490.45,Open,2025-07-25 05:28:33.640205,Minor water damage,,0
+C00276,P10606,CU1444,IL,Homeowners,Broker_5,Fire,3311.57,Open,2025-06-04 05:28:33.640208,Total loss due to fire,,0
+C00277,P10567,CU1617,FL,Commercial,Broker_1,Fire,476.16,Open,2024-08-23 05:28:33.640210,Customer reported late,,0
+C00278,P10543,CU1431,TX,Auto,Broker_6,Accident,690.21,Closed,2024-11-13 05:28:33.640212,Theft with forced entry,2025-01-05 05:28:33.640212,1
+C00279,P10230,CU1734,IL,Life,Broker_10,Liability,1369.62,Open,2025-01-24 05:28:33.640215,Total loss due to fire,,0
+C00280,P10883,CU1998,NY,Commercial,Broker_10,Liability,9813.73,Closed,2025-02-18 05:28:33.640217,Total loss due to fire,2025-04-18 05:28:33.640217,1
+C00281,P10520,CU1261,CA,Homeowners,Broker_7,Theft,12925.57,Open,2025-07-17 05:28:33.640220,Vehicle rear-ended,,0
+C00282,P10702,CU1276,TX,Homeowners,Broker_1,Theft,8750.91,Closed,2024-08-28 05:28:33.640222,Total loss due to fire,2024-10-08 05:28:33.640222,1
+C00283,P10872,CU1272,IL,Life,Broker_10,Fire,2032.91,Closed,2024-10-02 05:28:33.640225,Theft with forced entry,2024-11-25 05:28:33.640225,1
+C00284,P10199,CU1612,IL,Homeowners,Broker_4,Liability,1590.34,Open,2024-10-18 05:28:33.640242,Minor water damage,,0
+C00285,P10845,CU1415,TX,Homeowners,Broker_9,Liability,3983.17,Denied,2025-01-15 05:28:33.640245,Adjuster flagged for review,,0
+C00286,P10672,CU1513,CA,Life,Broker_1,Theft,6398.03,Open,2025-07-21 05:28:33.640248,Vehicle rear-ended,,0
+C00287,P10598,CU1619,FL,Commercial,Broker_9,Flood,25082.86,Closed,2024-11-18 05:28:33.640251,Theft with forced entry,2024-11-30 05:28:33.640251,1
+C00288,P10020,CU1202,NY,Commercial,Broker_8,Fire,705.35,Denied,2024-10-20 05:28:33.640253,Theft with forced entry,,0
+C00289,P10310,CU1935,IL,Auto,Broker_5,Liability,252.74,Closed,2025-07-11 05:28:33.640255,Theft with forced entry,2025-08-25 05:28:33.640255,1
+C00290,P10587,CU1703,CA,Life,Broker_6,Accident,5926.67,Open,2024-12-30 05:28:33.640258,Customer reported late,,0
+C00291,P10952,CU1771,NY,Auto,Broker_7,Accident,8925.68,Closed,2025-07-14 05:28:33.640260,Customer reported late,2025-07-26 05:28:33.640260,1
+C00292,P10897,CU1266,TX,Commercial,Broker_4,Flood,9365.35,Closed,2024-10-13 05:28:33.640264,Minor water damage,2024-11-29 05:28:33.640264,1
+C00293,P10652,CU1104,IL,Auto,Broker_6,Theft,5673.22,Pending,2025-07-27 05:28:33.640268,Theft with forced entry,,0
+C00294,P10637,CU1750,FL,Auto,Broker_7,Theft,15397.29,Denied,2024-10-30 05:28:33.640272,Customer reported late,,0
+C00295,P10762,CU1816,TX,Commercial,Broker_6,Theft,3577.01,Closed,2025-01-14 05:28:33.640276,Customer reported late,2025-02-24 05:28:33.640276,1
+C00296,P10899,CU1684,IL,Life,Broker_6,Accident,12256.28,Pending,2025-02-20 05:28:33.640280,Customer reported late,,0
+C00297,P10595,CU1556,CA,Life,Broker_2,Theft,17180.83,Open,2024-10-26 05:28:33.640284,Minor water damage,,0
+C00298,P10433,CU1636,NY,Auto,Broker_5,Accident,9391.74,Open,2025-07-05 05:28:33.640289,Minor water damage,,0
+C00299,P10370,CU1845,NY,Commercial,Broker_3,Flood,1853.57,Denied,2024-08-10 05:28:33.640292,Theft with forced entry,,0
+C00300,P10559,CU1864,IL,Commercial,Broker_7,Fire,1092.12,Open,2024-12-25 05:28:33.640296,Vehicle rear-ended,,0
+C00301,P10890,CU1163,TX,Life,Broker_4,Liability,3971.69,Open,2025-05-08 05:28:33.640301,Theft with forced entry,,0
+C00302,P10077,CU1493,FL,Commercial,Broker_1,Flood,3016.67,Open,2025-04-13 05:28:33.640305,Customer reported late,,0
+C00303,P10541,CU1141,CA,Auto,Broker_6,Accident,10508.78,Closed,2025-06-04 05:28:33.640308,Adjuster flagged for review,2025-06-21 05:28:33.640308,1
+C00304,P10284,CU1040,IL,Commercial,Broker_6,Flood,526.98,Closed,2025-03-29 05:28:33.640313,Customer reported late,2025-04-27 05:28:33.640313,1
+C00305,P10647,CU1040,CA,Life,Broker_7,Liability,1490.28,Closed,2024-08-04 05:28:33.640317,Total loss due to fire,2024-08-24 05:28:33.640317,1
+C00306,P10139,CU1759,NY,Auto,Broker_8,Fire,6967.58,Open,2024-12-03 05:28:33.640321,Adjuster flagged for review,,0
+C00307,P10552,CU1301,FL,Homeowners,Broker_3,Liability,499.03,Closed,2024-09-06 05:28:33.640326,Adjuster flagged for review,2024-09-26 05:28:33.640326,1
+C00308,P10997,CU1663,CA,Commercial,Broker_6,Accident,1933.94,Pending,2024-12-10 05:28:33.640329,Theft with forced entry,,0
+C00309,P10281,CU1674,IL,Commercial,Broker_10,Liability,2448.22,Denied,2024-08-18 05:28:33.640335,Customer reported late,,0
+C00310,P10561,CU1806,FL,Homeowners,Broker_2,Flood,4872.17,Closed,2024-09-20 05:28:33.640340,Customer reported late,2024-10-15 05:28:33.640340,1
+C00311,P10257,CU1939,TX,Auto,Broker_9,Theft,860.66,Pending,2025-07-06 05:28:33.640344,Vehicle rear-ended,,0
+C00312,P10822,CU1430,IL,Homeowners,Broker_2,Flood,9852.2,Closed,2025-05-01 05:28:33.640346,Total loss due to fire,2025-05-06 05:28:33.640346,1
+C00313,P10359,CU1887,CA,Auto,Broker_3,Accident,2966.89,Open,2025-02-25 05:28:33.640349,Theft with forced entry,,0
+C00314,P10439,CU1254,FL,Homeowners,Broker_10,Fire,12445.88,Open,2024-09-15 05:28:33.640351,Minor water damage,,0
+C00315,P10269,CU1130,IL,Life,Broker_2,Liability,3154.34,Open,2024-10-13 05:28:33.640353,Theft with forced entry,,0
+C00316,P10133,CU1795,FL,Commercial,Broker_9,Fire,1608.2,Closed,2024-09-15 05:28:33.640357,Adjuster flagged for review,2024-10-11 05:28:33.640357,1
+C00317,P10745,CU1567,FL,Homeowners,Broker_1,Accident,764.76,Open,2024-08-31 05:28:33.640361,Theft with forced entry,,0
+C00318,P10639,CU1935,FL,Auto,Broker_5,Liability,18.76,Closed,2025-06-12 05:28:33.640365,Vehicle rear-ended,2025-07-14 05:28:33.640365,1
+C00319,P10103,CU1649,CA,Homeowners,Broker_1,Flood,3798.12,Open,2025-07-21 05:28:33.640370,Theft with forced entry,,0
+C00320,P10765,CU1575,IL,Homeowners,Broker_5,Flood,566.72,Pending,2025-03-24 05:28:33.640373,Vehicle rear-ended,,0
+C00321,P10094,CU1636,NY,Commercial,Broker_8,Accident,2485.66,Closed,2025-01-17 05:28:33.640376,Adjuster flagged for review,2025-01-22 05:28:33.640376,1
+C00322,P10848,CU1761,NY,Auto,Broker_8,Liability,4449.12,Pending,2024-09-03 05:28:33.640378,Vehicle rear-ended,,0
+C00323,P10728,CU1074,CA,Life,Broker_8,Flood,1612.65,Pending,2024-08-13 05:28:33.640380,Customer reported late,,0
+C00324,P10572,CU1776,CA,Homeowners,Broker_2,Accident,963.22,Open,2024-10-27 05:28:33.640383,Minor water damage,,0
+C00325,P10479,CU1437,FL,Commercial,Broker_8,Accident,7452.09,Closed,2025-02-08 05:28:33.640517,Adjuster flagged for review,2025-02-23 05:28:33.640517,1
+C00326,P10779,CU1433,IL,Commercial,Broker_5,Fire,14667.65,Open,2024-09-04 05:28:33.640526,Vehicle rear-ended,,0
+C00327,P10240,CU1792,IL,Commercial,Broker_1,Flood,529.25,Pending,2025-06-09 05:28:33.640528,Total loss due to fire,,0
+C00328,P10012,CU1986,TX,Auto,Broker_7,Liability,845.59,Closed,2025-03-04 05:28:33.640531,Adjuster flagged for review,2025-04-11 05:28:33.640531,1
+C00329,P10146,CU1226,TX,Life,Broker_6,Flood,16095.96,Open,2024-09-06 05:28:33.640533,Total loss due to fire,,0
+C00330,P10939,CU1760,NY,Life,Broker_5,Flood,192.58,Open,2024-12-26 05:28:33.640536,Minor water damage,,0
+C00331,P10751,CU1668,TX,Homeowners,Broker_1,Flood,19000.69,Closed,2025-03-12 05:28:33.640541,Vehicle rear-ended,2025-03-18 05:28:33.640541,1
+C00332,P10600,CU1331,TX,Life,Broker_1,Accident,23.28,Pending,2024-08-20 05:28:33.640545,Adjuster flagged for review,,0
+C00333,P10094,CU1636,NY,Commercial,Broker_6,Theft,10344.24,Closed,2025-07-18 05:28:33.640549,Adjuster flagged for review,2025-09-14 05:28:33.640549,1
+C00334,P10826,CU1108,NY,Auto,Broker_10,Theft,1835.97,Denied,2024-08-07 05:28:33.640553,Minor water damage,,0
+C00335,P10292,CU1175,TX,Auto,Broker_7,Fire,13950.82,Closed,2025-03-28 05:28:33.640557,Customer reported late,2025-05-22 05:28:33.640557,1
+C00336,P10024,CU1943,IL,Life,Broker_10,Flood,1905.9,Open,2025-03-26 05:28:33.640561,Total loss due to fire,,0
+C00337,P10271,CU1475,TX,Homeowners,Broker_10,Theft,5311.01,Pending,2025-01-02 05:28:33.640564,Adjuster flagged for review,,0
+C00338,P10504,CU1405,FL,Life,Broker_1,Fire,417.09,Open,2025-01-13 05:28:33.640568,Theft with forced entry,,0
+C00339,P10165,CU1475,FL,Commercial,Broker_9,Accident,1387.54,Pending,2025-05-27 05:28:33.640572,Total loss due to fire,,0
+C00340,P10938,CU1703,FL,Homeowners,Broker_4,Flood,7429.01,Closed,2024-11-11 05:28:33.640577,Vehicle rear-ended,2024-12-16 05:28:33.640577,1
+C00341,P10761,CU1394,CA,Commercial,Broker_5,Liability,3761.15,Open,2024-09-21 05:28:33.640581,Minor water damage,,0
+C00342,P10086,CU1111,FL,Life,Broker_2,Accident,13153.3,Closed,2025-01-27 05:28:33.640585,Total loss due to fire,2025-02-17 05:28:33.640585,1
+C00343,P10653,CU1201,IL,Homeowners,Broker_10,Fire,2799.65,Pending,2025-06-22 05:28:33.640589,Theft with forced entry,,0
+C00344,P10645,CU1754,CA,Commercial,Broker_8,Accident,10193.89,Pending,2025-03-20 05:28:33.640593,Theft with forced entry,,0
+C00345,P10984,CU1725,CA,Life,Broker_2,Liability,2979.7,Open,2025-03-12 05:28:33.640596,Minor water damage,,0
+C00346,P10790,CU1154,FL,Life,Broker_3,Accident,19375.63,Open,2025-01-22 05:28:33.640598,Minor water damage,,0
+C00347,P10637,CU1750,TX,Auto,Broker_9,Fire,16073.72,Closed,2024-09-02 05:28:33.640601,Total loss due to fire,2024-10-08 05:28:33.640601,1
+C00348,P10827,CU1735,NY,Homeowners,Broker_2,Liability,1995.95,Closed,2025-06-17 05:28:33.640606,Vehicle rear-ended,2025-08-01 05:28:33.640606,1
+C00349,P10490,CU1231,TX,Auto,Broker_6,Liability,10854.44,Closed,2025-04-09 05:28:33.640610,Customer reported late,2025-05-28 05:28:33.640610,1
+C00350,P10907,CU1475,TX,Homeowners,Broker_4,Accident,9406.61,Open,2025-07-04 05:28:33.640613,Theft with forced entry,,0
+C00351,P10140,CU1253,CA,Life,Broker_7,Liability,1182.92,Pending,2024-11-18 05:28:33.640617,Minor water damage,,0
+C00352,P10867,CU1865,CA,Homeowners,Broker_6,Accident,4894.69,Closed,2025-01-29 05:28:33.640622,Customer reported late,2025-03-28 05:28:33.640622,1
+C00353,P10102,CU1570,CA,Commercial,Broker_10,Flood,377.3,Denied,2025-01-29 05:28:33.640627,Customer reported late,,0
+C00354,P10225,CU1161,IL,Commercial,Broker_9,Liability,9061.16,Closed,2025-06-22 05:28:33.640631,Customer reported late,2025-07-16 05:28:33.640631,1
+C00355,P10901,CU1139,IL,Life,Broker_9,Accident,959.11,Closed,2024-09-16 05:28:33.640635,Vehicle rear-ended,2024-11-14 05:28:33.640635,1
+C00356,P10574,CU1548,NY,Life,Broker_10,Flood,367.24,Pending,2024-10-31 05:28:33.640639,Minor water damage,,0
+C00357,P10293,CU1895,CA,Auto,Broker_4,Liability,2555.95,Closed,2024-11-30 05:28:33.640643,Theft with forced entry,2024-12-20 05:28:33.640643,1
+C00358,P10895,CU1116,FL,Auto,Broker_1,Flood,4301.0,Denied,2024-12-01 05:28:33.640648,Minor water damage,,0
+C00359,P10305,CU1892,CA,Auto,Broker_2,Liability,9652.25,Pending,2024-11-23 05:28:33.640652,Total loss due to fire,,0
+C00360,P10253,CU1433,IL,Life,Broker_8,Fire,18295.15,Closed,2024-11-19 05:28:33.640656,Theft with forced entry,2024-11-26 05:28:33.640656,1
+C00361,P10179,CU1553,CA,Homeowners,Broker_10,Fire,2894.56,Closed,2024-09-16 05:28:33.640660,Minor water damage,2024-09-23 05:28:33.640660,1
+C00362,P10039,CU1130,IL,Auto,Broker_8,Accident,311.75,Open,2025-05-26 05:28:33.640664,Theft with forced entry,,0
+C00363,P10775,CU1030,CA,Auto,Broker_2,Theft,6913.81,Open,2025-05-11 05:28:33.640669,Total loss due to fire,,0
+C00364,P10700,CU1293,FL,Auto,Broker_4,Fire,4164.04,Open,2024-09-15 05:28:33.640673,Adjuster flagged for review,,0
+C00365,P10519,CU1933,NY,Auto,Broker_1,Theft,2970.05,Open,2025-01-15 05:28:33.640677,Theft with forced entry,,0
+C00366,P10615,CU1519,FL,Life,Broker_7,Flood,1850.02,Open,2024-09-01 05:28:33.640682,Adjuster flagged for review,,0
+C00367,P10736,CU1919,IL,Auto,Broker_4,Flood,3489.78,Closed,2025-04-08 05:28:33.640685,Customer reported late,2025-04-20 05:28:33.640685,1
+C00368,P10545,CU1851,TX,Life,Broker_8,Theft,2067.58,Closed,2025-03-04 05:28:33.640689,Vehicle rear-ended,2025-04-27 05:28:33.640689,1
+C00369,P10235,CU1836,FL,Auto,Broker_9,Accident,7073.71,Closed,2025-07-02 05:28:33.640692,Total loss due to fire,2025-08-09 05:28:33.640692,1
+C00370,P10462,CU1928,CA,Commercial,Broker_9,Liability,3925.15,Open,2025-06-26 05:28:33.640696,Theft with forced entry,,0
+C00371,P10227,CU1923,NY,Auto,Broker_3,Theft,10471.67,Open,2025-05-09 05:28:33.640701,Total loss due to fire,,0
+C00372,P10699,CU1504,CA,Commercial,Broker_5,Theft,3921.31,Closed,2025-07-26 05:28:33.640705,Customer reported late,2025-08-04 05:28:33.640705,1
+C00373,P10824,CU1499,CA,Life,Broker_6,Theft,1360.77,Closed,2025-01-29 05:28:33.640709,Adjuster flagged for review,2025-02-27 05:28:33.640709,1
+C00374,P10482,CU1558,FL,Life,Broker_6,Theft,9522.13,Closed,2025-03-18 05:28:33.640712,Vehicle rear-ended,2025-03-31 05:28:33.640712,1
+C00375,P10429,CU1987,NY,Commercial,Broker_10,Theft,4073.4,Closed,2024-11-26 05:28:33.640714,Total loss due to fire,2025-01-22 05:28:33.640714,1
+C00376,P10021,CU1147,TX,Homeowners,Broker_8,Accident,1158.66,Denied,2025-07-08 05:28:33.640717,Adjuster flagged for review,,0
+C00377,P10342,CU1400,CA,Commercial,Broker_6,Fire,4884.29,Closed,2024-12-26 05:28:33.640719,Customer reported late,2025-02-17 05:28:33.640719,1
+C00378,P10039,CU1130,NY,Auto,Broker_6,Liability,2213.63,Closed,2025-02-17 05:28:33.640722,Customer reported late,2025-03-09 05:28:33.640722,1
+C00379,P10172,CU1904,TX,Life,Broker_4,Fire,9302.51,Pending,2025-05-18 05:28:33.640724,Customer reported late,,0
+C00380,P10438,CU1126,CA,Commercial,Broker_7,Theft,3019.27,Denied,2025-04-22 05:28:33.640726,Adjuster flagged for review,,0
+C00381,P10178,CU1209,NY,Homeowners,Broker_8,Fire,6481.2,Closed,2025-03-25 05:28:33.640729,Theft with forced entry,2025-05-19 05:28:33.640729,1
+C00382,P10597,CU1167,FL,Auto,Broker_3,Accident,502.07,Closed,2025-04-20 05:28:33.640731,Minor water damage,2025-06-11 05:28:33.640731,1
+C00383,P10132,CU1057,CA,Auto,Broker_7,Flood,2521.11,Open,2025-02-07 05:28:33.640734,Total loss due to fire,,0
+C00384,P10350,CU1114,CA,Life,Broker_3,Fire,20444.23,Closed,2025-02-13 05:28:33.640736,Minor water damage,2025-04-06 05:28:33.640736,1
+C00385,P10524,CU1912,NY,Life,Broker_8,Liability,8263.3,Pending,2024-10-31 05:28:33.640738,Customer reported late,,0
+C00386,P10539,CU1866,CA,Commercial,Broker_1,Accident,871.41,Closed,2025-06-05 05:28:33.640741,Minor water damage,2025-06-16 05:28:33.640741,1
+C00387,P10505,CU1075,TX,Life,Broker_1,Flood,1627.02,Pending,2025-06-25 05:28:33.640743,Adjuster flagged for review,,0
+C00388,P10083,CU1516,CA,Life,Broker_6,Accident,2001.01,Closed,2025-03-16 05:28:33.640746,Customer reported late,2025-05-03 05:28:33.640746,1
+C00389,P10992,CU1276,IL,Auto,Broker_10,Theft,5254.34,Pending,2025-02-19 05:28:33.640748,Customer reported late,,0
+C00390,P10463,CU1200,TX,Homeowners,Broker_9,Flood,7073.36,Closed,2024-08-06 05:28:33.640751,Vehicle rear-ended,2024-09-24 05:28:33.640751,1
+C00391,P10829,CU1067,NY,Life,Broker_4,Liability,6922.01,Open,2025-07-07 05:28:33.640753,Vehicle rear-ended,,0
+C00392,P10860,CU1603,TX,Homeowners,Broker_6,Flood,3565.46,Closed,2025-04-04 05:28:33.640755,Adjuster flagged for review,2025-05-04 05:28:33.640755,1
+C00393,P10342,CU1400,IL,Commercial,Broker_5,Liability,8325.3,Open,2025-05-30 05:28:33.640758,Adjuster flagged for review,,0
+C00394,P10279,CU1416,IL,Life,Broker_1,Theft,2873.07,Open,2025-03-10 05:28:33.640760,Minor water damage,,0
+C00395,P10865,CU1908,CA,Commercial,Broker_6,Liability,661.26,Denied,2025-06-06 05:28:33.640763,Total loss due to fire,,0
+C00396,P10262,CU1363,CA,Auto,Broker_9,Accident,4155.63,Open,2025-04-28 05:28:33.640765,Minor water damage,,0
+C00397,P10165,CU1475,FL,Commercial,Broker_3,Fire,15214.26,Closed,2024-08-29 05:28:33.640767,Adjuster flagged for review,2024-10-04 05:28:33.640767,1
+C00398,P10292,CU1175,TX,Auto,Broker_3,Accident,7875.03,Open,2025-05-25 05:28:33.640769,Total loss due to fire,,0
+C00399,P10508,CU1853,FL,Life,Broker_2,Accident,4322.06,Open,2025-04-20 05:28:33.640772,Minor water damage,,0
+C00400,P10579,CU1788,IL,Auto,Broker_4,Flood,5203.68,Pending,2025-06-07 05:28:33.640775,Theft with forced entry,,0
+C00401,P10225,CU1161,CA,Commercial,Broker_10,Theft,13336.61,Closed,2024-11-16 05:28:33.640780,Theft with forced entry,2024-12-05 05:28:33.640780,1
+C00402,P10169,CU1596,CA,Homeowners,Broker_3,Fire,2796.08,Closed,2025-01-31 05:28:33.640783,Total loss due to fire,2025-03-07 05:28:33.640783,1
+C00403,P10597,CU1167,CA,Auto,Broker_2,Liability,2012.8,Closed,2024-08-07 05:28:33.640785,Vehicle rear-ended,2024-08-25 05:28:33.640785,1
+C00404,P10644,CU1377,NY,Homeowners,Broker_1,Flood,18914.1,Closed,2025-04-07 05:28:33.640787,Total loss due to fire,2025-05-28 05:28:33.640787,1
+C00405,P10447,CU1267,IL,Commercial,Broker_3,Theft,9955.07,Pending,2025-03-04 05:28:33.640790,Minor water damage,,0
+C00406,P10689,CU1985,CA,Commercial,Broker_10,Fire,1950.74,Closed,2024-09-09 05:28:33.640792,Customer reported late,2024-10-21 05:28:33.640792,1
+C00407,P10854,CU1299,IL,Auto,Broker_6,Accident,3116.06,Closed,2024-10-31 05:28:33.640796,Theft with forced entry,2024-12-11 05:28:33.640796,1
+C00408,P10501,CU1347,CA,Auto,Broker_9,Theft,2681.38,Denied,2024-09-21 05:28:33.640799,Customer reported late,,0
+C00409,P10763,CU1880,TX,Auto,Broker_5,Theft,807.28,Open,2025-02-25 05:28:33.640801,Theft with forced entry,,0
+C00410,P10526,CU1779,IL,Life,Broker_3,Theft,15828.97,Closed,2025-01-01 05:28:33.640803,Minor water damage,2025-01-17 05:28:33.640803,1
+C00411,P10734,CU1379,FL,Life,Broker_5,Accident,2590.19,Pending,2025-07-29 05:28:33.640806,Theft with forced entry,,0
+C00412,P10378,CU1153,NY,Homeowners,Broker_5,Liability,10410.39,Closed,2024-12-06 05:28:33.640808,Total loss due to fire,2025-01-06 05:28:33.640808,1
+C00413,P10200,CU1927,FL,Homeowners,Broker_5,Flood,1049.63,Denied,2024-12-11 05:28:33.640811,Customer reported late,,0
+C00414,P10618,CU1173,IL,Auto,Broker_7,Liability,3968.94,Closed,2024-10-18 05:28:33.640813,Adjuster flagged for review,2024-11-06 05:28:33.640813,1
+C00415,P10249,CU1476,CA,Auto,Broker_5,Fire,121.27,Denied,2025-07-22 05:28:33.640815,Customer reported late,,0
+C00416,P10948,CU1603,IL,Homeowners,Broker_7,Flood,7224.29,Pending,2025-01-06 05:28:33.640818,Minor water damage,,0
+C00417,P10408,CU1828,NY,Life,Broker_9,Fire,4348.39,Open,2025-04-25 05:28:33.640820,Adjuster flagged for review,,0
+C00418,P10600,CU1331,IL,Life,Broker_5,Accident,4912.01,Open,2025-07-06 05:28:33.640822,Customer reported late,,0
+C00419,P10124,CU1078,CA,Auto,Broker_2,Liability,265.53,Closed,2025-01-20 05:28:33.640825,Minor water damage,2025-02-03 05:28:33.640825,1
+C00420,P10112,CU1276,FL,Life,Broker_5,Theft,1185.19,Closed,2025-02-18 05:28:33.640827,Vehicle rear-ended,2025-04-01 05:28:33.640827,1
+C00421,P10980,CU1113,TX,Life,Broker_8,Flood,386.19,Open,2025-02-27 05:28:33.640830,Total loss due to fire,,0
+C00422,P10136,CU1446,FL,Commercial,Broker_4,Theft,1704.81,Open,2025-02-07 05:28:33.640832,Theft with forced entry,,0
+C00423,P10758,CU1478,CA,Homeowners,Broker_2,Fire,4936.77,Closed,2025-04-05 05:28:33.640834,Theft with forced entry,2025-05-11 05:28:33.640834,1
+C00424,P10495,CU1504,CA,Auto,Broker_10,Theft,4175.7,Pending,2025-06-13 05:28:33.640837,Theft with forced entry,,0
+C00425,P10677,CU1349,NY,Commercial,Broker_3,Theft,4735.68,Closed,2025-03-23 05:28:33.640839,Vehicle rear-ended,2025-05-21 05:28:33.640839,1
+C00426,P10149,CU1435,IL,Commercial,Broker_9,Accident,3984.23,Closed,2025-04-03 05:28:33.640841,Total loss due to fire,2025-05-08 05:28:33.640841,1
+C00427,P10874,CU1763,IL,Homeowners,Broker_9,Accident,1594.34,Open,2025-01-14 05:28:33.640844,Customer reported late,,0
+C00428,P10342,CU1400,FL,Commercial,Broker_8,Liability,1401.93,Closed,2024-08-30 05:28:33.640846,Customer reported late,2024-10-22 05:28:33.640846,1
+C00429,P10944,CU1948,TX,Auto,Broker_8,Fire,737.05,Open,2025-03-25 05:28:33.640848,Total loss due to fire,,0
+C00430,P10579,CU1788,TX,Auto,Broker_8,Accident,9454.72,Open,2025-03-09 05:28:33.640851,Adjuster flagged for review,,0
+C00431,P10732,CU1117,NY,Life,Broker_8,Accident,4791.81,Pending,2025-07-14 05:28:33.640853,Total loss due to fire,,0
+C00432,P10782,CU1375,CA,Homeowners,Broker_8,Liability,1032.11,Pending,2024-10-05 05:28:33.640855,Theft with forced entry,,0
+C00433,P10320,CU1967,NY,Auto,Broker_1,Flood,975.27,Open,2025-07-28 05:28:33.640858,Customer reported late,,0
+C00434,P10821,CU1058,IL,Homeowners,Broker_6,Liability,10319.24,Open,2024-08-12 05:28:33.640860,Total loss due to fire,,0
+C00435,P10925,CU1581,CA,Auto,Broker_9,Theft,6788.16,Closed,2025-02-18 05:28:33.640862,Customer reported late,2025-04-06 05:28:33.640862,1
+C00436,P10860,CU1603,NY,Homeowners,Broker_8,Theft,5385.22,Closed,2024-08-18 05:28:33.640865,Total loss due to fire,2024-08-25 05:28:33.640865,1
+C00437,P10531,CU1466,FL,Homeowners,Broker_3,Accident,2611.66,Open,2024-11-28 05:28:33.640867,Minor water damage,,0
+C00438,P10288,CU1313,IL,Life,Broker_1,Accident,1518.89,Closed,2024-11-23 05:28:33.640869,Theft with forced entry,2025-01-06 05:28:33.640869,1
+C00439,P10488,CU1604,TX,Auto,Broker_2,Liability,19424.66,Open,2025-03-03 05:28:33.640872,Total loss due to fire,,0
+C00440,P10491,CU1532,NY,Auto,Broker_2,Liability,7978.65,Closed,2025-07-24 05:28:33.640874,Vehicle rear-ended,2025-09-15 05:28:33.640874,1
+C00441,P10611,CU1102,IL,Auto,Broker_7,Fire,1796.1,Closed,2025-06-22 05:28:33.640876,Total loss due to fire,2025-07-16 05:28:33.640876,1
+C00442,P10251,CU1371,IL,Life,Broker_6,Theft,9405.08,Closed,2025-04-14 05:28:33.640879,Minor water damage,2025-05-06 05:28:33.640879,1
+C00443,P10981,CU1479,TX,Auto,Broker_2,Liability,7113.38,Closed,2025-06-08 05:28:33.640881,Vehicle rear-ended,2025-06-30 05:28:33.640881,1
+C00444,P10076,CU1965,TX,Life,Broker_8,Flood,1762.56,Pending,2024-10-12 05:28:33.640883,Vehicle rear-ended,,0
+C00445,P10646,CU1654,TX,Auto,Broker_9,Fire,2780.45,Pending,2024-09-10 05:28:33.640886,Total loss due to fire,,0
+C00446,P10391,CU1979,NY,Homeowners,Broker_7,Liability,1028.69,Open,2025-06-05 05:28:33.640888,Minor water damage,,0
+C00447,P10411,CU1464,TX,Auto,Broker_4,Accident,588.59,Open,2024-10-22 05:28:33.640890,Vehicle rear-ended,,0
+C00448,P10172,CU1904,FL,Life,Broker_1,Liability,6414.4,Closed,2025-01-16 05:28:33.640893,Theft with forced entry,2025-02-25 05:28:33.640893,1
+C00449,P10874,CU1763,IL,Homeowners,Broker_4,Accident,1556.54,Open,2024-09-02 05:28:33.640895,Adjuster flagged for review,,0
+C00450,P10200,CU1927,TX,Homeowners,Broker_4,Accident,8575.64,Closed,2025-05-02 05:28:33.640898,Theft with forced entry,2025-06-27 05:28:33.640898,1
+C00451,P10216,CU1886,IL,Commercial,Broker_8,Theft,27140.66,Closed,2025-02-15 05:28:33.640900,Customer reported late,2025-04-10 05:28:33.640900,1
+C00452,P10375,CU1423,CA,Life,Broker_4,Theft,398.57,Closed,2025-04-07 05:28:33.640902,Customer reported late,2025-05-19 05:28:33.640902,1
+C00453,P10719,CU1450,CA,Homeowners,Broker_4,Liability,3203.11,Closed,2025-06-02 05:28:33.640904,Minor water damage,2025-06-29 05:28:33.640904,1
+C00454,P10585,CU1550,TX,Homeowners,Broker_2,Liability,8099.02,Closed,2025-05-10 05:28:33.640907,Vehicle rear-ended,2025-07-01 05:28:33.640907,1
+C00455,P10010,CU1689,IL,Life,Broker_10,Flood,7778.32,Pending,2025-01-05 05:28:33.640909,Theft with forced entry,,0
+C00456,P10798,CU1261,CA,Commercial,Broker_7,Fire,7135.52,Open,2024-08-31 05:28:33.640912,Theft with forced entry,,0
+C00457,P10767,CU1391,TX,Commercial,Broker_4,Fire,2146.19,Closed,2024-09-10 05:28:33.640935,Adjuster flagged for review,2024-10-22 05:28:33.640935,1
+C00458,P10011,CU1928,IL,Commercial,Broker_6,Liability,3024.34,Open,2024-09-07 05:28:33.640940,Minor water damage,,0
+C00459,P10891,CU1885,TX,Life,Broker_3,Theft,4518.95,Open,2025-07-28 05:28:33.640944,Vehicle rear-ended,,0
+C00460,P10990,CU1319,IL,Homeowners,Broker_7,Flood,18236.88,Closed,2025-06-14 05:28:33.640949,Minor water damage,2025-06-30 05:28:33.640949,1
+C00461,P10589,CU1493,CA,Auto,Broker_6,Fire,1984.12,Open,2024-08-26 05:28:33.640953,Total loss due to fire,,0
+C00462,P10434,CU1621,TX,Homeowners,Broker_3,Liability,12829.1,Open,2024-10-10 05:28:33.640958,Theft with forced entry,,0
+C00463,P10683,CU1418,CA,Commercial,Broker_4,Theft,1569.15,Open,2025-06-26 05:28:33.640961,Minor water damage,,0
+C00464,P10607,CU1239,TX,Commercial,Broker_10,Theft,22583.26,Closed,2024-11-19 05:28:33.640964,Minor water damage,2025-01-17 05:28:33.640964,1
+C00465,P10817,CU1200,NY,Commercial,Broker_5,Theft,5547.31,Closed,2025-07-11 05:28:33.640966,Adjuster flagged for review,2025-08-27 05:28:33.640966,1
+C00466,P10372,CU1595,CA,Homeowners,Broker_9,Accident,3113.55,Open,2025-03-25 05:28:33.640969,Total loss due to fire,,0
+C00467,P10272,CU1797,CA,Life,Broker_6,Theft,4751.7,Closed,2024-09-03 05:28:33.640971,Customer reported late,2024-09-22 05:28:33.640971,1
+C00468,P10930,CU1586,FL,Auto,Broker_4,Liability,1590.92,Open,2024-09-11 05:28:33.640974,Theft with forced entry,,0
+C00469,P10896,CU1865,CA,Homeowners,Broker_7,Flood,1602.22,Closed,2025-07-22 05:28:33.640976,Adjuster flagged for review,2025-09-05 05:28:33.640976,1
+C00470,P10924,CU1863,IL,Life,Broker_2,Liability,602.68,Closed,2025-03-18 05:28:33.640978,Minor water damage,2025-04-09 05:28:33.640978,1
+C00471,P10690,CU1356,TX,Auto,Broker_4,Theft,605.48,Closed,2025-04-08 05:28:33.640981,Theft with forced entry,2025-06-02 05:28:33.640981,1
+C00472,P10575,CU1816,NY,Life,Broker_5,Flood,2136.04,Pending,2024-11-29 05:28:33.640983,Customer reported late,,0
+C00473,P10508,CU1853,IL,Life,Broker_4,Fire,7195.43,Pending,2024-11-20 05:28:33.640987,Minor water damage,,0
+C00474,P10131,CU1679,IL,Auto,Broker_4,Fire,4682.1,Open,2024-08-28 05:28:33.640990,Total loss due to fire,,0
+C00475,P10854,CU1299,IL,Auto,Broker_9,Liability,541.18,Denied,2025-04-12 05:28:33.640995,Theft with forced entry,,0
+C00476,P10923,CU1819,IL,Commercial,Broker_2,Flood,9560.71,Open,2024-11-04 05:28:33.640999,Adjuster flagged for review,,0
+C00477,P10783,CU1343,NY,Commercial,Broker_6,Liability,4598.58,Pending,2025-05-15 05:28:33.641003,Total loss due to fire,,0
+C00478,P10318,CU1123,FL,Homeowners,Broker_8,Flood,16202.49,Open,2024-11-30 05:28:33.641007,Customer reported late,,0
+C00479,P10843,CU1553,CA,Life,Broker_8,Flood,5546.12,Closed,2025-01-19 05:28:33.641010,Customer reported late,2025-03-19 05:28:33.641010,1
+C00480,P10948,CU1603,IL,Homeowners,Broker_7,Liability,962.92,Open,2025-05-31 05:28:33.641012,Theft with forced entry,,0
+C00481,P10852,CU1382,CA,Commercial,Broker_10,Flood,3210.21,Open,2024-10-11 05:28:33.641014,Customer reported late,,0
+C00482,P10620,CU1669,CA,Homeowners,Broker_4,Theft,5227.69,Closed,2024-10-07 05:28:33.641017,Vehicle rear-ended,2024-10-21 05:28:33.641017,1
+C00483,P10784,CU1442,IL,Auto,Broker_7,Flood,143.36,Pending,2025-04-02 05:28:33.641019,Adjuster flagged for review,,0
+C00484,P10167,CU1163,FL,Auto,Broker_10,Flood,75.11,Closed,2025-05-25 05:28:33.641022,Theft with forced entry,2025-07-09 05:28:33.641022,1
+C00485,P10396,CU1072,CA,Commercial,Broker_6,Liability,692.88,Closed,2025-03-05 05:28:33.641024,Vehicle rear-ended,2025-03-26 05:28:33.641024,1
+C00486,P10179,CU1553,TX,Homeowners,Broker_6,Fire,1449.52,Closed,2024-10-20 05:28:33.641027,Customer reported late,2024-11-21 05:28:33.641027,1
+C00487,P10057,CU1894,CA,Homeowners,Broker_2,Accident,2806.64,Open,2024-09-29 05:28:33.641030,Theft with forced entry,,0
+C00488,P10479,CU1437,IL,Commercial,Broker_8,Flood,3341.69,Open,2024-12-04 05:28:33.641032,Vehicle rear-ended,,0
+C00489,P10932,CU1957,NY,Commercial,Broker_8,Accident,742.66,Open,2024-08-17 05:28:33.641034,Customer reported late,,0
+C00490,P10590,CU1658,CA,Commercial,Broker_7,Flood,5594.97,Closed,2025-05-12 05:28:33.641037,Minor water damage,2025-06-11 05:28:33.641037,1
+C00491,P10459,CU1868,FL,Life,Broker_9,Liability,4533.41,Open,2025-05-09 05:28:33.641040,Minor water damage,,0
+C00492,P10060,CU1597,TX,Auto,Broker_8,Liability,1743.99,Open,2025-07-21 05:28:33.641043,Total loss due to fire,,0
+C00493,P10368,CU1658,TX,Commercial,Broker_9,Flood,68.77,Open,2025-07-05 05:28:33.641046,Minor water damage,,0
+C00494,P10120,CU1654,NY,Life,Broker_9,Liability,404.14,Open,2024-09-19 05:28:33.641048,Vehicle rear-ended,,0
+C00495,P10718,CU1799,NY,Commercial,Broker_6,Liability,2485.39,Pending,2024-08-11 05:28:33.641051,Adjuster flagged for review,,0
+C00496,P10545,CU1851,CA,Life,Broker_2,Flood,836.03,Open,2025-06-10 05:28:33.641053,Minor water damage,,0
+C00497,P10581,CU1570,IL,Homeowners,Broker_7,Fire,2364.6,Closed,2024-07-29 05:28:33.641056,Theft with forced entry,2024-09-27 05:28:33.641056,1
+C00498,P10016,CU1398,FL,Life,Broker_3,Flood,4946.76,Closed,2025-05-02 05:28:33.641058,Theft with forced entry,2025-06-24 05:28:33.641058,1
+C00499,P10495,CU1504,TX,Auto,Broker_7,Fire,3961.94,Closed,2024-10-08 05:28:33.641061,Theft with forced entry,2024-10-24 05:28:33.641061,1
+C00500,P10496,CU1668,NY,Auto,Broker_9,Liability,1314.47,Open,2024-11-17 05:28:33.641063,Minor water damage,,0
+C00501,P10504,CU1405,FL,Life,Broker_10,Fire,2106.62,Closed,2024-12-02 05:28:33.641065,Minor water damage,2025-01-05 05:28:33.641065,1
+C00502,P10531,CU1466,IL,Homeowners,Broker_10,Liability,4759.99,Open,2025-02-11 05:28:33.641068,Total loss due to fire,,0
+C00503,P10968,CU1146,TX,Life,Broker_2,Fire,9861.19,Closed,2025-01-13 05:28:33.641070,Adjuster flagged for review,2025-03-10 05:28:33.641070,1
+C00504,P10314,CU1934,TX,Auto,Broker_6,Fire,6996.16,Open,2024-10-15 05:28:33.641073,Adjuster flagged for review,,0
+C00505,P10068,CU1953,IL,Life,Broker_6,Flood,4030.46,Closed,2025-01-19 05:28:33.641075,Customer reported late,2025-03-08 05:28:33.641075,1
+C00506,P10726,CU1022,TX,Commercial,Broker_9,Fire,2249.38,Closed,2024-12-20 05:28:33.641078,Total loss due to fire,2025-01-19 05:28:33.641078,1
+C00507,P10160,CU1267,IL,Auto,Broker_9,Liability,2271.06,Closed,2025-03-31 05:28:33.641080,Vehicle rear-ended,2025-05-03 05:28:33.641080,1
+C00508,P10613,CU1249,TX,Homeowners,Broker_5,Flood,10577.1,Closed,2024-11-22 05:28:33.641084,Theft with forced entry,2024-11-29 05:28:33.641084,1
+C00509,P10887,CU1516,CA,Commercial,Broker_5,Fire,200.17,Closed,2024-08-25 05:28:33.641088,Minor water damage,2024-09-03 05:28:33.641088,1
+C00510,P10717,CU1865,IL,Commercial,Broker_9,Flood,22107.02,Denied,2024-11-23 05:28:33.641093,Customer reported late,,0
+C00511,P10144,CU1096,FL,Auto,Broker_8,Accident,5458.81,Open,2025-06-06 05:28:33.641098,Customer reported late,,0
+C00512,P10568,CU1362,CA,Auto,Broker_7,Flood,5714.98,Closed,2025-04-02 05:28:33.641101,Minor water damage,2025-04-30 05:28:33.641101,1
+C00513,P10594,CU1557,FL,Auto,Broker_8,Accident,193.69,Closed,2025-01-23 05:28:33.641109,Total loss due to fire,2025-02-28 05:28:33.641109,1
+C00514,P10992,CU1276,TX,Auto,Broker_6,Accident,4651.05,Closed,2024-11-08 05:28:33.641112,Customer reported late,2024-12-26 05:28:33.641112,1
+C00515,P10384,CU1621,FL,Commercial,Broker_3,Flood,3315.79,Open,2024-11-28 05:28:33.641114,Adjuster flagged for review,,0
+C00516,P10268,CU1981,CA,Auto,Broker_7,Liability,559.01,Closed,2024-12-12 05:28:33.641116,Total loss due to fire,2024-12-20 05:28:33.641116,1
+C00517,P10922,CU1747,IL,Homeowners,Broker_8,Liability,1628.11,Open,2025-01-14 05:28:33.641119,Minor water damage,,0
+C00518,P10453,CU1468,NY,Homeowners,Broker_8,Liability,11050.69,Open,2024-12-10 05:28:33.641121,Total loss due to fire,,0
+C00519,P10698,CU1407,FL,Life,Broker_1,Theft,3992.41,Open,2025-05-11 05:28:33.641124,Adjuster flagged for review,,0
+C00520,P10517,CU1583,NY,Life,Broker_7,Accident,2667.2,Open,2025-05-05 05:28:33.641126,Theft with forced entry,,0
+C00521,P10864,CU1482,FL,Auto,Broker_3,Flood,377.29,Closed,2025-02-19 05:28:33.641129,Minor water damage,2025-03-17 05:28:33.641129,1
+C00522,P10349,CU1209,FL,Auto,Broker_2,Liability,6260.94,Denied,2024-12-31 05:28:33.641131,Adjuster flagged for review,,0
+C00523,P10109,CU1959,IL,Homeowners,Broker_2,Liability,6067.6,Open,2024-09-03 05:28:33.641133,Minor water damage,,0
+C00524,P10482,CU1558,TX,Life,Broker_8,Flood,4760.15,Pending,2024-08-10 05:28:33.641136,Adjuster flagged for review,,0
+C00525,P10406,CU1933,CA,Homeowners,Broker_9,Accident,3569.43,Pending,2025-06-13 05:28:33.641138,Adjuster flagged for review,,0
+C00526,P10649,CU1769,CA,Auto,Broker_3,Flood,2843.9,Pending,2025-01-14 05:28:33.641141,Customer reported late,,0
+C00527,P10050,CU1907,CA,Auto,Broker_3,Theft,4498.04,Denied,2025-04-04 05:28:33.641143,Customer reported late,,0
+C00528,P10402,CU1786,TX,Homeowners,Broker_6,Theft,1328.92,Closed,2024-08-03 05:28:33.641145,Customer reported late,2024-08-27 05:28:33.641145,1
+C00529,P10562,CU1340,NY,Auto,Broker_10,Flood,14173.09,Open,2025-05-31 05:28:33.641150,Theft with forced entry,,0
+C00530,P10475,CU1342,CA,Auto,Broker_1,Accident,4443.31,Closed,2025-01-11 05:28:33.641154,Theft with forced entry,2025-02-13 05:28:33.641154,1
+C00531,P10086,CU1111,NY,Life,Broker_6,Liability,1863.97,Closed,2025-06-11 05:28:33.641158,Adjuster flagged for review,2025-07-08 05:28:33.641158,1
+C00532,P10067,CU1027,TX,Auto,Broker_3,Theft,2986.28,Denied,2025-02-24 05:28:33.641162,Vehicle rear-ended,,0
+C00533,P10595,CU1556,TX,Life,Broker_4,Theft,8191.37,Pending,2024-09-26 05:28:33.641167,Minor water damage,,0
+C00534,P10978,CU1286,IL,Homeowners,Broker_9,Accident,881.4,Closed,2024-09-07 05:28:33.641170,Customer reported late,2024-09-14 05:28:33.641170,1
+C00535,P10041,CU1729,CA,Life,Broker_3,Theft,1732.46,Closed,2024-12-24 05:28:33.641172,Minor water damage,2025-01-21 05:28:33.641172,1
+C00536,P10730,CU1671,IL,Homeowners,Broker_1,Theft,5689.49,Open,2024-12-22 05:28:33.641175,Adjuster flagged for review,,0
+C00537,P10056,CU1707,CA,Homeowners,Broker_3,Accident,1895.25,Open,2025-02-25 05:28:33.641177,Total loss due to fire,,0
+C00538,P10737,CU1678,TX,Homeowners,Broker_7,Flood,7863.16,Closed,2025-01-22 05:28:33.641179,Adjuster flagged for review,2025-02-08 05:28:33.641179,1
+C00539,P10195,CU1928,TX,Life,Broker_7,Liability,698.92,Closed,2025-07-09 05:28:33.641182,Theft with forced entry,2025-08-02 05:28:33.641182,1
+C00540,P10759,CU1474,FL,Auto,Broker_5,Liability,7191.86,Denied,2025-07-29 05:28:33.641184,Vehicle rear-ended,,0
+C00541,P10677,CU1349,FL,Commercial,Broker_1,Theft,354.0,Closed,2024-12-15 05:28:33.641186,Total loss due to fire,2024-12-29 05:28:33.641186,1
+C00542,P10061,CU1288,TX,Life,Broker_8,Liability,63.36,Pending,2025-07-14 05:28:33.641189,Minor water damage,,0
+C00543,P10262,CU1363,TX,Auto,Broker_10,Flood,11424.88,Closed,2024-12-21 05:28:33.641191,Theft with forced entry,2025-01-03 05:28:33.641191,1
+C00544,P10111,CU1390,NY,Commercial,Broker_8,Theft,4353.47,Denied,2024-09-24 05:28:33.641194,Customer reported late,,0
+C00545,P10764,CU1805,NY,Homeowners,Broker_10,Liability,2167.99,Open,2025-06-15 05:28:33.641198,Total loss due to fire,,0
+C00546,P10710,CU1072,IL,Auto,Broker_10,Fire,1323.7,Denied,2025-03-07 05:28:33.641202,Theft with forced entry,,0
+C00547,P10177,CU1103,FL,Commercial,Broker_10,Fire,4797.11,Closed,2025-03-14 05:28:33.641206,Minor water damage,2025-03-27 05:28:33.641206,1
+C00548,P10947,CU1081,FL,Commercial,Broker_2,Fire,3556.58,Open,2024-08-14 05:28:33.641209,Adjuster flagged for review,,0
+C00549,P10025,CU1198,TX,Homeowners,Broker_10,Fire,23896.29,Open,2025-03-19 05:28:33.641214,Minor water damage,,0
+C00550,P10409,CU1675,TX,Commercial,Broker_3,Fire,20436.64,Pending,2024-10-29 05:28:33.641218,Total loss due to fire,,0
+C00551,P10757,CU1426,IL,Homeowners,Broker_4,Theft,5039.63,Open,2025-01-07 05:28:33.641222,Total loss due to fire,,0
+C00552,P10530,CU1647,FL,Auto,Broker_1,Accident,2924.79,Closed,2025-02-22 05:28:33.641226,Adjuster flagged for review,2025-03-06 05:28:33.641226,1
+C00553,P10776,CU1387,NY,Commercial,Broker_4,Accident,3377.92,Closed,2025-01-26 05:28:33.641230,Total loss due to fire,2025-02-24 05:28:33.641230,1
+C00554,P10316,CU1200,CA,Auto,Broker_5,Theft,5736.06,Closed,2025-01-04 05:28:33.641233,Vehicle rear-ended,2025-02-10 05:28:33.641233,1
+C00555,P10531,CU1466,IL,Homeowners,Broker_3,Theft,535.56,Denied,2024-09-22 05:28:33.641235,Customer reported late,,0
+C00556,P10105,CU1703,CA,Homeowners,Broker_10,Flood,1990.1,Closed,2025-05-24 05:28:33.641238,Theft with forced entry,2025-07-02 05:28:33.641238,1
+C00557,P10748,CU1558,NY,Homeowners,Broker_2,Accident,391.28,Closed,2024-08-17 05:28:33.641240,Adjuster flagged for review,2024-09-29 05:28:33.641240,1
+C00558,P10817,CU1200,NY,Commercial,Broker_6,Fire,380.95,Pending,2025-03-02 05:28:33.641243,Minor water damage,,0
+C00559,P10463,CU1200,CA,Homeowners,Broker_8,Theft,1089.78,Closed,2025-05-09 05:28:33.641245,Minor water damage,2025-06-25 05:28:33.641245,1
+C00560,P10245,CU1644,IL,Commercial,Broker_7,Fire,3320.4,Denied,2025-06-03 05:28:33.641247,Customer reported late,,0
+C00561,P10080,CU1576,CA,Auto,Broker_1,Accident,7680.34,Closed,2024-12-21 05:28:33.641249,Total loss due to fire,2025-01-28 05:28:33.641249,1
+C00562,P10661,CU1562,IL,Homeowners,Broker_4,Liability,3322.76,Open,2025-02-17 05:28:33.641252,Total loss due to fire,,0
+C00563,P10908,CU1516,IL,Commercial,Broker_3,Liability,2043.43,Closed,2025-01-07 05:28:33.641254,Minor water damage,2025-03-08 05:28:33.641254,1
+C00564,P10395,CU1062,TX,Auto,Broker_6,Theft,429.71,Closed,2025-07-14 05:28:33.641258,Customer reported late,2025-08-28 05:28:33.641258,1
+C00565,P10521,CU1213,FL,Life,Broker_9,Flood,3995.82,Open,2025-06-15 05:28:33.641260,Minor water damage,,0
+C00566,P10832,CU1488,FL,Commercial,Broker_9,Fire,1582.25,Open,2025-02-06 05:28:33.641262,Total loss due to fire,,0
+C00567,P10735,CU1928,NY,Commercial,Broker_7,Theft,4771.7,Open,2024-11-15 05:28:33.641264,Adjuster flagged for review,,0
+C00568,P10925,CU1581,TX,Auto,Broker_9,Flood,18902.29,Closed,2024-09-29 05:28:33.641267,Theft with forced entry,2024-10-05 05:28:33.641267,1
+C00569,P10263,CU1875,FL,Life,Broker_8,Fire,590.06,Denied,2025-06-27 05:28:33.641269,Total loss due to fire,,0
+C00570,P10660,CU1209,IL,Homeowners,Broker_5,Accident,1192.08,Open,2024-08-07 05:28:33.641272,Adjuster flagged for review,,0
+C00571,P10789,CU1665,IL,Homeowners,Broker_9,Liability,3203.67,Closed,2024-07-29 05:28:33.641274,Theft with forced entry,2024-09-11 05:28:33.641274,1
+C00572,P10273,CU1985,CA,Homeowners,Broker_7,Flood,17306.94,Pending,2025-07-22 05:28:33.641276,Vehicle rear-ended,,0
+C00573,P10705,CU1657,CA,Homeowners,Broker_5,Fire,7387.88,Open,2025-02-17 05:28:33.641279,Customer reported late,,0
+C00574,P10943,CU1690,IL,Commercial,Broker_8,Theft,11425.16,Closed,2025-04-03 05:28:33.641281,Adjuster flagged for review,2025-05-03 05:28:33.641281,1
+C00575,P10171,CU1566,IL,Homeowners,Broker_7,Fire,2030.19,Pending,2025-04-06 05:28:33.641284,Vehicle rear-ended,,0
+C00576,P10264,CU1456,CA,Homeowners,Broker_9,Theft,24165.67,Pending,2024-08-21 05:28:33.641286,Total loss due to fire,,0
+C00577,P10962,CU1848,FL,Life,Broker_10,Liability,542.57,Open,2025-04-17 05:28:33.641289,Customer reported late,,0
+C00578,P10821,CU1058,NY,Homeowners,Broker_1,Liability,272.14,Open,2024-12-16 05:28:33.641291,Adjuster flagged for review,,0
+C00579,P10025,CU1198,CA,Homeowners,Broker_9,Fire,9675.93,Open,2024-09-04 05:28:33.641293,Total loss due to fire,,0
+C00580,P10468,CU1976,FL,Auto,Broker_7,Fire,13104.65,Closed,2025-07-16 05:28:33.641296,Customer reported late,2025-08-16 05:28:33.641296,1
+C00581,P10861,CU1958,FL,Auto,Broker_1,Theft,474.77,Closed,2024-12-06 05:28:33.641298,Customer reported late,2025-01-12 05:28:33.641298,1
+C00582,P10475,CU1342,FL,Auto,Broker_1,Theft,601.96,Closed,2025-07-18 05:28:33.641300,Total loss due to fire,2025-08-10 05:28:33.641300,1
+C00583,P10355,CU1406,TX,Commercial,Broker_5,Flood,168.68,Closed,2024-11-24 05:28:33.641303,Total loss due to fire,2024-12-19 05:28:33.641303,1
+C00584,P10025,CU1198,TX,Homeowners,Broker_8,Flood,551.91,Open,2025-01-01 05:28:33.641305,Adjuster flagged for review,,0
+C00585,P10033,CU1312,FL,Auto,Broker_9,Flood,1174.94,Closed,2025-01-10 05:28:33.641307,Customer reported late,2025-03-07 05:28:33.641307,1
+C00586,P10263,CU1875,IL,Life,Broker_6,Fire,17545.58,Closed,2025-06-04 05:28:33.641310,Adjuster flagged for review,2025-07-01 05:28:33.641310,1
+C00587,P10137,CU1065,TX,Commercial,Broker_10,Flood,5511.0,Closed,2025-07-02 05:28:33.641312,Customer reported late,2025-07-07 05:28:33.641312,1
+C00588,P10815,CU1707,CA,Auto,Broker_8,Fire,7537.86,Closed,2024-09-14 05:28:33.641314,Adjuster flagged for review,2024-10-26 05:28:33.641314,1
+C00589,P10694,CU1126,TX,Auto,Broker_6,Liability,7483.66,Closed,2024-11-20 05:28:33.641317,Total loss due to fire,2025-01-11 05:28:33.641317,1
+C00590,P10874,CU1763,IL,Homeowners,Broker_6,Accident,3829.38,Open,2025-02-28 05:28:33.641319,Total loss due to fire,,0
+C00591,P10753,CU1443,NY,Homeowners,Broker_4,Liability,7984.8,Open,2025-02-13 05:28:33.641321,Minor water damage,,0
+C00592,P10565,CU1703,TX,Life,Broker_5,Fire,4529.32,Open,2024-11-16 05:28:33.641324,Adjuster flagged for review,,0
+C00593,P10461,CU1683,FL,Commercial,Broker_2,Fire,1888.37,Open,2024-12-13 05:28:33.641329,Minor water damage,,0
+C00594,P10167,CU1163,FL,Auto,Broker_3,Accident,4117.53,Closed,2025-03-11 05:28:33.641331,Minor water damage,2025-04-08 05:28:33.641331,1
+C00595,P10630,CU1989,FL,Auto,Broker_3,Theft,3812.58,Open,2025-07-23 05:28:33.641334,Vehicle rear-ended,,0
+C00596,P10654,CU1449,NY,Life,Broker_5,Theft,8670.84,Open,2025-06-02 05:28:33.641336,Customer reported late,,0
+C00597,P10080,CU1576,IL,Auto,Broker_5,Theft,20011.71,Closed,2024-09-26 05:28:33.641338,Theft with forced entry,2024-10-24 05:28:33.641338,1
+C00598,P10756,CU1418,CA,Auto,Broker_6,Flood,2647.01,Closed,2024-08-20 05:28:33.641341,Vehicle rear-ended,2024-09-17 05:28:33.641341,1
+C00599,P10913,CU1557,IL,Commercial,Broker_5,Theft,7206.72,Closed,2024-12-08 05:28:33.641343,Customer reported late,2024-12-21 05:28:33.641343,1
+C00600,P10863,CU1636,NY,Homeowners,Broker_6,Flood,525.49,Closed,2024-09-27 05:28:33.641346,Theft with forced entry,2024-11-15 05:28:33.641346,1
+C00601,P10869,CU1995,FL,Homeowners,Broker_8,Flood,7499.14,Closed,2024-12-24 05:28:33.641348,Minor water damage,2025-01-29 05:28:33.641348,1
+C00602,P10406,CU1933,IL,Homeowners,Broker_2,Theft,2321.44,Pending,2025-04-11 05:28:33.641350,Theft with forced entry,,0
+C00603,P10573,CU1343,CA,Commercial,Broker_4,Theft,200.93,Open,2025-06-30 05:28:33.641352,Total loss due to fire,,0
+C00604,P10045,CU1914,FL,Auto,Broker_6,Accident,2256.86,Closed,2025-07-08 05:28:33.641355,Total loss due to fire,2025-09-05 05:28:33.641355,1
+C00605,P10598,CU1619,CA,Commercial,Broker_5,Accident,4716.29,Pending,2025-03-10 05:28:33.641357,Adjuster flagged for review,,0
+C00606,P10610,CU1601,TX,Homeowners,Broker_1,Flood,634.91,Denied,2025-05-25 05:28:33.641360,Customer reported late,,0
+C00607,P10806,CU1121,CA,Auto,Broker_9,Accident,12887.38,Open,2025-05-27 05:28:33.641362,Vehicle rear-ended,,0
+C00608,P10910,CU1183,FL,Life,Broker_3,Flood,404.27,Closed,2024-12-12 05:28:33.641365,Minor water damage,2025-02-08 05:28:33.641365,1
+C00609,P10052,CU1424,TX,Homeowners,Broker_2,Fire,13296.78,Open,2025-07-09 05:28:33.641367,Customer reported late,,0
+C00610,P10983,CU1348,FL,Auto,Broker_9,Flood,6140.26,Closed,2024-12-13 05:28:33.641370,Minor water damage,2025-02-11 05:28:33.641370,1
+C00611,P10703,CU1437,FL,Homeowners,Broker_7,Flood,2000.24,Closed,2024-09-04 05:28:33.641372,Total loss due to fire,2024-09-25 05:28:33.641372,1
+C00612,P10958,CU1328,TX,Commercial,Broker_5,Accident,2477.64,Closed,2024-09-24 05:28:33.641374,Vehicle rear-ended,2024-11-09 05:28:33.641374,1
+C00613,P10475,CU1342,CA,Auto,Broker_6,Fire,6750.96,Closed,2024-12-19 05:28:33.641377,Vehicle rear-ended,2025-01-10 05:28:33.641377,1
+C00614,P10591,CU1906,NY,Commercial,Broker_4,Liability,4599.88,Closed,2024-11-05 05:28:33.641380,Total loss due to fire,2024-11-20 05:28:33.641380,1
+C00615,P10015,CU1638,NY,Homeowners,Broker_1,Liability,5568.27,Closed,2025-03-29 05:28:33.641384,Theft with forced entry,2025-04-11 05:28:33.641384,1
+C00616,P10359,CU1887,NY,Auto,Broker_4,Liability,2464.64,Denied,2025-04-22 05:28:33.641389,Vehicle rear-ended,,0
+C00617,P10486,CU1025,NY,Auto,Broker_9,Fire,3345.33,Closed,2025-04-02 05:28:33.641393,Theft with forced entry,2025-05-02 05:28:33.641393,1
+C00618,P10837,CU1853,IL,Auto,Broker_1,Theft,22960.03,Open,2025-02-27 05:28:33.641398,Minor water damage,,0
+C00619,P10705,CU1657,NY,Homeowners,Broker_10,Fire,1203.5,Closed,2025-04-06 05:28:33.641401,Vehicle rear-ended,2025-05-14 05:28:33.641401,1
+C00620,P10501,CU1347,TX,Auto,Broker_3,Accident,2705.19,Open,2024-12-07 05:28:33.641403,Adjuster flagged for review,,0
+C00621,P10140,CU1253,NY,Life,Broker_5,Flood,1725.31,Closed,2025-02-15 05:28:33.641405,Total loss due to fire,2025-03-11 05:28:33.641405,1
+C00622,P10619,CU1342,FL,Commercial,Broker_7,Flood,7243.22,Pending,2024-11-28 05:28:33.641408,Theft with forced entry,,0
+C00623,P10814,CU1645,NY,Auto,Broker_9,Accident,7219.88,Denied,2024-08-15 05:28:33.641411,Adjuster flagged for review,,0
+C00624,P10776,CU1387,CA,Commercial,Broker_6,Accident,1729.7,Closed,2025-03-07 05:28:33.641414,Minor water damage,2025-04-06 05:28:33.641414,1
+C00625,P10446,CU1669,TX,Life,Broker_3,Flood,424.47,Open,2025-04-13 05:28:33.641416,Minor water damage,,0
+C00626,P10289,CU1074,TX,Homeowners,Broker_7,Theft,57.49,Open,2024-09-22 05:28:33.641418,Vehicle rear-ended,,0
+C00627,P10208,CU1365,IL,Homeowners,Broker_4,Theft,2788.28,Closed,2025-05-14 05:28:33.641421,Vehicle rear-ended,2025-05-24 05:28:33.641421,1
+C00628,P10474,CU1300,FL,Life,Broker_3,Theft,2641.03,Open,2025-04-03 05:28:33.641424,Adjuster flagged for review,,0
+C00629,P10412,CU1285,TX,Life,Broker_7,Accident,22279.39,Closed,2024-12-12 05:28:33.641426,Customer reported late,2025-01-12 05:28:33.641426,1
+C00630,P10676,CU1911,CA,Life,Broker_7,Flood,3172.52,Open,2024-12-28 05:28:33.641428,Customer reported late,,0
+C00631,P10426,CU1040,NY,Auto,Broker_4,Flood,1481.38,Closed,2024-08-17 05:28:33.641432,Vehicle rear-ended,2024-10-16 05:28:33.641432,1
+C00632,P10853,CU1532,TX,Commercial,Broker_7,Flood,11092.57,Open,2025-07-20 05:28:33.641436,Customer reported late,,0
+C00633,P10370,CU1845,CA,Commercial,Broker_2,Fire,3377.2,Pending,2024-10-14 05:28:33.641441,Total loss due to fire,,0
+C00634,P10831,CU1164,NY,Life,Broker_1,Fire,4571.16,Closed,2025-06-23 05:28:33.641445,Adjuster flagged for review,2025-08-06 05:28:33.641445,1
+C00635,P10663,CU1712,IL,Auto,Broker_2,Liability,502.8,Closed,2024-08-07 05:28:33.641449,Total loss due to fire,2024-10-02 05:28:33.641449,1
+C00636,P10966,CU1863,TX,Homeowners,Broker_4,Fire,2413.75,Open,2024-10-29 05:28:33.641451,Customer reported late,,0
+C00637,P10289,CU1074,TX,Homeowners,Broker_8,Theft,14432.03,Closed,2025-03-05 05:28:33.641454,Vehicle rear-ended,2025-04-15 05:28:33.641454,1
+C00638,P10431,CU1513,CA,Life,Broker_3,Theft,4451.96,Open,2025-06-28 05:28:33.641456,Total loss due to fire,,0
+C00639,P10267,CU1225,FL,Commercial,Broker_10,Theft,2111.8,Closed,2025-05-09 05:28:33.641459,Minor water damage,2025-05-19 05:28:33.641459,1
+C00640,P10150,CU1790,IL,Homeowners,Broker_6,Theft,4913.05,Denied,2024-10-08 05:28:33.641461,Vehicle rear-ended,,0
+C00641,P10718,CU1799,FL,Commercial,Broker_6,Liability,12062.62,Closed,2025-03-06 05:28:33.641464,Adjuster flagged for review,2025-04-03 05:28:33.641464,1
+C00642,P10254,CU1645,TX,Commercial,Broker_9,Theft,1600.96,Closed,2025-03-03 05:28:33.641467,Theft with forced entry,2025-04-17 05:28:33.641467,1
+C00643,P10352,CU1645,FL,Auto,Broker_9,Accident,3517.17,Closed,2024-12-23 05:28:33.641470,Theft with forced entry,2025-02-02 05:28:33.641470,1
+C00644,P10376,CU1855,NY,Life,Broker_4,Accident,15933.33,Pending,2025-05-09 05:28:33.641474,Vehicle rear-ended,,0
+C00645,P10652,CU1104,IL,Auto,Broker_9,Accident,946.1,Pending,2025-02-26 05:28:33.641478,Customer reported late,,0
+C00646,P10854,CU1299,FL,Auto,Broker_6,Fire,6358.83,Closed,2025-01-19 05:28:33.641483,Total loss due to fire,2025-03-07 05:28:33.641483,1
+C00647,P10357,CU1602,NY,Auto,Broker_2,Flood,4765.82,Closed,2025-06-12 05:28:33.641486,Total loss due to fire,2025-08-10 05:28:33.641486,1
+C00648,P10607,CU1239,CA,Commercial,Broker_10,Liability,5692.1,Closed,2025-01-27 05:28:33.641490,Vehicle rear-ended,2025-02-04 05:28:33.641490,1
+C00649,P10940,CU1498,FL,Commercial,Broker_6,Accident,2163.31,Open,2025-01-17 05:28:33.641495,Minor water damage,,0
+C00650,P10369,CU1541,IL,Auto,Broker_2,Accident,1883.51,Closed,2025-02-17 05:28:33.641499,Adjuster flagged for review,2025-02-22 05:28:33.641499,1
+C00651,P10226,CU1259,NY,Homeowners,Broker_8,Theft,5763.38,Closed,2025-01-28 05:28:33.641503,Customer reported late,2025-03-23 05:28:33.641503,1
+C00652,P10704,CU1106,FL,Life,Broker_4,Accident,1213.82,Open,2025-02-25 05:28:33.641505,Minor water damage,,0
+C00653,P10302,CU1930,CA,Homeowners,Broker_5,Theft,2720.66,Open,2024-08-12 05:28:33.641508,Vehicle rear-ended,,0
+C00654,P10825,CU1912,FL,Auto,Broker_8,Theft,1042.35,Closed,2025-04-28 05:28:33.641510,Vehicle rear-ended,2025-06-04 05:28:33.641510,1
+C00655,P10388,CU1274,NY,Life,Broker_8,Flood,41.7,Denied,2025-04-21 05:28:33.641513,Minor water damage,,0
+C00656,P10376,CU1855,FL,Life,Broker_6,Fire,17542.36,Closed,2025-01-21 05:28:33.641516,Theft with forced entry,2025-02-02 05:28:33.641516,1
+C00657,P10972,CU1442,IL,Homeowners,Broker_4,Theft,2825.56,Closed,2024-10-18 05:28:33.641520,Vehicle rear-ended,2024-10-28 05:28:33.641520,1
+C00658,P10117,CU1877,TX,Life,Broker_1,Theft,17425.55,Closed,2025-01-05 05:28:33.641526,Adjuster flagged for review,2025-02-25 05:28:33.641526,1
+C00659,P10004,CU1849,NY,Commercial,Broker_7,Flood,756.0,Closed,2025-01-13 05:28:33.641530,Customer reported late,2025-02-26 05:28:33.641530,1
+C00660,P10443,CU1061,NY,Homeowners,Broker_8,Theft,4425.98,Closed,2025-07-10 05:28:33.641533,Minor water damage,2025-07-20 05:28:33.641533,1
+C00661,P10351,CU1736,NY,Commercial,Broker_9,Liability,1121.81,Closed,2025-02-20 05:28:33.641536,Theft with forced entry,2025-04-08 05:28:33.641536,1
+C00662,P10754,CU1913,NY,Life,Broker_2,Fire,7805.0,Open,2024-08-04 05:28:33.641538,Minor water damage,,0
+C00663,P10532,CU1379,FL,Life,Broker_1,Liability,7655.51,Closed,2025-03-17 05:28:33.641541,Theft with forced entry,2025-05-13 05:28:33.641541,1
+C00664,P10663,CU1712,IL,Auto,Broker_4,Accident,597.34,Open,2025-03-22 05:28:33.641543,Theft with forced entry,,0
+C00665,P10639,CU1935,CA,Auto,Broker_5,Fire,12155.76,Closed,2025-06-25 05:28:33.641546,Adjuster flagged for review,2025-07-31 05:28:33.641546,1
+C00666,P10123,CU1212,IL,Auto,Broker_10,Accident,1082.27,Pending,2024-08-15 05:28:33.641548,Customer reported late,,0
+C00667,P10657,CU1972,NY,Auto,Broker_1,Theft,4746.36,Open,2025-01-24 05:28:33.641550,Vehicle rear-ended,,0
+C00668,P10276,CU1759,FL,Homeowners,Broker_5,Flood,21214.32,Closed,2025-03-16 05:28:33.641554,Theft with forced entry,2025-04-04 05:28:33.641554,1
+C00669,P10821,CU1058,FL,Homeowners,Broker_6,Liability,10702.18,Closed,2025-02-14 05:28:33.641558,Vehicle rear-ended,2025-04-04 05:28:33.641558,1
+C00670,P10393,CU1326,NY,Life,Broker_3,Accident,15682.33,Denied,2025-02-04 05:28:33.641562,Customer reported late,,0
+C00671,P10663,CU1712,FL,Auto,Broker_7,Theft,2097.3,Closed,2024-10-07 05:28:33.641567,Vehicle rear-ended,2024-11-04 05:28:33.641567,1
+C00672,P10359,CU1887,NY,Auto,Broker_6,Liability,557.87,Closed,2024-12-26 05:28:33.641571,Adjuster flagged for review,2025-02-08 05:28:33.641571,1
+C00673,P10622,CU1726,IL,Homeowners,Broker_4,Liability,1043.41,Denied,2025-07-28 05:28:33.641575,Adjuster flagged for review,,0
+C00674,P10468,CU1976,TX,Auto,Broker_3,Accident,3470.69,Closed,2025-05-26 05:28:33.641578,Total loss due to fire,2025-06-20 05:28:33.641578,1
+C00675,P10984,CU1725,FL,Life,Broker_5,Theft,7880.73,Closed,2025-07-16 05:28:33.641581,Adjuster flagged for review,2025-07-29 05:28:33.641581,1
+C00676,P10627,CU1657,NY,Life,Broker_3,Flood,813.5,Closed,2025-05-31 05:28:33.641583,Theft with forced entry,2025-06-08 05:28:33.641583,1
+C00677,P10699,CU1504,NY,Commercial,Broker_10,Accident,5390.1,Denied,2025-03-30 05:28:33.641585,Customer reported late,,0
+C00678,P10056,CU1707,FL,Homeowners,Broker_9,Liability,1954.69,Open,2024-08-02 05:28:33.641588,Adjuster flagged for review,,0
+C00679,P10250,CU1264,CA,Commercial,Broker_9,Liability,2086.69,Closed,2025-03-22 05:28:33.641590,Minor water damage,2025-04-13 05:28:33.641590,1
+C00680,P10895,CU1116,NY,Auto,Broker_6,Fire,5422.33,Closed,2024-08-21 05:28:33.641592,Customer reported late,2024-09-17 05:28:33.641592,1
+C00681,P10918,CU1146,FL,Life,Broker_6,Theft,3146.16,Closed,2025-02-28 05:28:33.641595,Theft with forced entry,2025-04-25 05:28:33.641595,1
+C00682,P10149,CU1435,NY,Commercial,Broker_4,Fire,8357.45,Closed,2025-03-23 05:28:33.641597,Customer reported late,2025-04-16 05:28:33.641597,1
+C00683,P10451,CU1493,CA,Commercial,Broker_4,Flood,847.53,Closed,2024-09-22 05:28:33.641599,Adjuster flagged for review,2024-09-30 05:28:33.641599,1
+C00684,P10161,CU1585,TX,Life,Broker_2,Accident,7802.01,Open,2025-06-04 05:28:33.641602,Minor water damage,,0
+C00685,P10119,CU1213,CA,Life,Broker_10,Liability,331.96,Closed,2025-06-26 05:28:33.641604,Total loss due to fire,2025-07-06 05:28:33.641604,1
+C00686,P10581,CU1570,IL,Homeowners,Broker_4,Theft,1078.69,Closed,2025-01-16 05:28:33.641607,Theft with forced entry,2025-02-28 05:28:33.641607,1
+C00687,P10923,CU1819,FL,Commercial,Broker_8,Liability,5337.74,Pending,2025-07-11 05:28:33.641609,Theft with forced entry,,0
+C00688,P10350,CU1114,CA,Life,Broker_10,Fire,9652.54,Open,2025-07-11 05:28:33.641611,Customer reported late,,0
+C00689,P10098,CU1343,TX,Auto,Broker_2,Fire,1456.31,Denied,2025-04-18 05:28:33.641613,Vehicle rear-ended,,0
+C00690,P10166,CU1296,NY,Life,Broker_9,Accident,1981.47,Closed,2025-01-15 05:28:33.641617,Vehicle rear-ended,2025-03-14 05:28:33.641617,1
+C00691,P10809,CU1169,FL,Homeowners,Broker_1,Theft,3851.45,Open,2025-04-25 05:28:33.641621,Minor water damage,,0
+C00692,P10662,CU1117,CA,Homeowners,Broker_2,Theft,1188.58,Closed,2025-07-28 05:28:33.641625,Total loss due to fire,2025-08-27 05:28:33.641625,1
+C00693,P10837,CU1853,TX,Auto,Broker_2,Accident,8334.18,Open,2025-05-01 05:28:33.641629,Total loss due to fire,,0
+C00694,P10975,CU1942,CA,Homeowners,Broker_6,Fire,7428.07,Pending,2025-06-23 05:28:33.641633,Customer reported late,,0
+C00695,P10513,CU1346,IL,Homeowners,Broker_7,Fire,784.98,Denied,2025-06-19 05:28:33.641637,Customer reported late,,0
+C00696,P10663,CU1712,FL,Auto,Broker_3,Fire,3116.52,Open,2025-05-01 05:28:33.641641,Vehicle rear-ended,,0
+C00697,P10400,CU1632,NY,Homeowners,Broker_9,Liability,7454.45,Open,2025-03-25 05:28:33.641645,Adjuster flagged for review,,0
+C00698,P10364,CU1500,TX,Life,Broker_5,Flood,2057.39,Closed,2025-07-26 05:28:33.641649,Total loss due to fire,2025-09-23 05:28:33.641649,1
+C00699,P10576,CU1552,CA,Auto,Broker_5,Fire,5013.42,Closed,2024-11-07 05:28:33.641653,Adjuster flagged for review,2024-12-08 05:28:33.641653,1
+C00700,P10325,CU1578,FL,Commercial,Broker_4,Flood,257.59,Closed,2024-09-07 05:28:33.641658,Total loss due to fire,2024-09-12 05:28:33.641658,1
+C00701,P10580,CU1818,CA,Life,Broker_9,Flood,4691.26,Closed,2025-05-03 05:28:33.641662,Adjuster flagged for review,2025-05-11 05:28:33.641662,1
+C00702,P10632,CU1638,FL,Commercial,Broker_8,Theft,828.22,Closed,2025-02-09 05:28:33.641666,Adjuster flagged for review,2025-04-10 05:28:33.641666,1
+C00703,P10620,CU1669,IL,Homeowners,Broker_4,Accident,8876.97,Open,2025-02-21 05:28:33.641670,Total loss due to fire,,0
+C00704,P10827,CU1735,CA,Homeowners,Broker_4,Liability,2196.01,Denied,2025-06-09 05:28:33.641674,Minor water damage,,0
+C00705,P10246,CU1226,IL,Life,Broker_2,Flood,1653.32,Denied,2025-07-20 05:28:33.641677,Minor water damage,,0
+C00706,P10433,CU1636,TX,Auto,Broker_9,Liability,9190.77,Closed,2024-10-17 05:28:33.641680,Customer reported late,2024-10-31 05:28:33.641680,1
+C00707,P10092,CU1879,IL,Commercial,Broker_3,Theft,257.22,Denied,2024-11-11 05:28:33.641682,Adjuster flagged for review,,0
+C00708,P10267,CU1225,FL,Commercial,Broker_4,Fire,2525.95,Open,2025-03-12 05:28:33.641685,Adjuster flagged for review,,0
+C00709,P10614,CU1452,TX,Auto,Broker_7,Flood,2310.21,Open,2024-11-14 05:28:33.641688,Adjuster flagged for review,,0
+C00710,P10942,CU1464,CA,Life,Broker_10,Accident,1675.97,Closed,2025-05-05 05:28:33.641690,Adjuster flagged for review,2025-06-15 05:28:33.641690,1
+C00711,P10962,CU1848,CA,Life,Broker_8,Theft,12138.15,Closed,2025-07-26 05:28:33.641692,Adjuster flagged for review,2025-08-17 05:28:33.641692,1
+C00712,P10623,CU1688,FL,Homeowners,Broker_8,Liability,6950.07,Closed,2024-10-17 05:28:33.641695,Vehicle rear-ended,2024-11-02 05:28:33.641695,1
+C00713,P10320,CU1967,NY,Auto,Broker_4,Fire,330.29,Denied,2025-03-03 05:28:33.641697,Theft with forced entry,,0
+C00714,P10922,CU1747,NY,Homeowners,Broker_7,Liability,6270.85,Pending,2025-06-17 05:28:33.641699,Adjuster flagged for review,,0
+C00715,P10815,CU1707,CA,Auto,Broker_10,Accident,3746.46,Closed,2024-12-22 05:28:33.641702,Vehicle rear-ended,2025-01-31 05:28:33.641702,1
+C00716,P10855,CU1138,FL,Homeowners,Broker_1,Flood,11556.51,Closed,2025-02-12 05:28:33.641704,Minor water damage,2025-03-02 05:28:33.641704,1
+C00717,P10061,CU1288,NY,Life,Broker_6,Accident,1876.71,Open,2025-06-24 05:28:33.641706,Adjuster flagged for review,,0
+C00718,P10299,CU1861,IL,Commercial,Broker_6,Liability,4268.48,Open,2025-06-02 05:28:33.641711,Minor water damage,,0
+C00719,P10402,CU1786,CA,Homeowners,Broker_6,Liability,3473.29,Closed,2024-08-30 05:28:33.641715,Customer reported late,2024-10-09 05:28:33.641715,1
+C00720,P10954,CU1364,IL,Commercial,Broker_2,Accident,3362.42,Closed,2024-12-05 05:28:33.641719,Theft with forced entry,2025-01-19 05:28:33.641719,1
+C00721,P10647,CU1040,FL,Life,Broker_8,Accident,3045.0,Closed,2024-08-26 05:28:33.641723,Total loss due to fire,2024-09-16 05:28:33.641723,1
+C00722,P10566,CU1317,IL,Life,Broker_5,Accident,1151.03,Closed,2024-10-03 05:28:33.641727,Theft with forced entry,2024-12-02 05:28:33.641727,1
+C00723,P10619,CU1342,NY,Commercial,Broker_5,Fire,7046.99,Closed,2025-02-06 05:28:33.641731,Adjuster flagged for review,2025-02-16 05:28:33.641731,1
+C00724,P10302,CU1930,NY,Homeowners,Broker_2,Liability,3001.35,Open,2024-12-11 05:28:33.641735,Adjuster flagged for review,,0
+C00725,P10769,CU1687,TX,Commercial,Broker_4,Theft,15912.27,Closed,2025-06-18 05:28:33.641739,Theft with forced entry,2025-07-11 05:28:33.641739,1
+C00726,P10252,CU1485,CA,Homeowners,Broker_9,Fire,1510.99,Open,2025-01-26 05:28:33.641743,Theft with forced entry,,0
+C00727,P10733,CU1611,FL,Auto,Broker_9,Fire,5740.23,Open,2024-11-14 05:28:33.641747,Customer reported late,,0
+C00728,P10477,CU1423,CA,Auto,Broker_6,Fire,14127.17,Closed,2025-03-14 05:28:33.641751,Minor water damage,2025-03-28 05:28:33.641751,1
+C00729,P10368,CU1658,IL,Commercial,Broker_9,Theft,5445.17,Open,2024-11-21 05:28:33.641755,Total loss due to fire,,0
+C00730,P10678,CU1295,FL,Homeowners,Broker_4,Accident,10250.3,Denied,2024-08-23 05:28:33.641759,Theft with forced entry,,0
+C00731,P10940,CU1498,FL,Commercial,Broker_1,Liability,8786.24,Open,2024-11-25 05:28:33.641763,Total loss due to fire,,0
+C00732,P10159,CU1503,NY,Auto,Broker_2,Flood,2232.36,Open,2025-05-07 05:28:33.641765,Theft with forced entry,,0
+C00733,P10960,CU1115,IL,Commercial,Broker_1,Flood,4583.0,Closed,2025-06-03 05:28:33.641768,Minor water damage,2025-07-25 05:28:33.641768,1
+C00734,P10165,CU1475,NY,Commercial,Broker_8,Liability,849.56,Closed,2025-04-20 05:28:33.641770,Total loss due to fire,2025-05-13 05:28:33.641770,1
+C00735,P10204,CU1612,NY,Homeowners,Broker_9,Theft,3834.25,Open,2025-02-26 05:28:33.641772,Vehicle rear-ended,,0
+C00736,P10266,CU1727,TX,Auto,Broker_10,Flood,1309.56,Open,2024-10-19 05:28:33.641775,Minor water damage,,0
+C00737,P10137,CU1065,NY,Commercial,Broker_6,Fire,6807.75,Pending,2024-12-31 05:28:33.641777,Total loss due to fire,,0
+C00738,P10367,CU1546,CA,Homeowners,Broker_2,Flood,3754.5,Closed,2025-01-01 05:28:33.641780,Theft with forced entry,2025-01-23 05:28:33.641780,1
+C00739,P10442,CU1476,FL,Homeowners,Broker_6,Liability,2648.58,Closed,2024-09-21 05:28:33.641782,Theft with forced entry,2024-09-29 05:28:33.641782,1
+C00740,P10857,CU1835,NY,Commercial,Broker_9,Fire,1565.32,Closed,2024-08-09 05:28:33.641785,Minor water damage,2024-09-28 05:28:33.641785,1
+C00741,P10759,CU1474,CA,Auto,Broker_3,Flood,33221.12,Open,2025-06-08 05:28:33.641787,Minor water damage,,0
+C00742,P10566,CU1317,IL,Life,Broker_9,Liability,372.06,Closed,2024-11-21 05:28:33.641789,Theft with forced entry,2024-12-29 05:28:33.641789,1
+C00743,P10915,CU1581,FL,Homeowners,Broker_2,Theft,222.69,Closed,2025-03-09 05:28:33.641792,Total loss due to fire,2025-03-28 05:28:33.641792,1
+C00744,P10720,CU1194,IL,Homeowners,Broker_5,Liability,1224.76,Denied,2025-04-09 05:28:33.641794,Vehicle rear-ended,,0
+C00745,P10016,CU1398,CA,Life,Broker_2,Theft,17714.81,Open,2025-03-13 05:28:33.641797,Customer reported late,,0
+C00746,P10067,CU1027,IL,Auto,Broker_7,Fire,19373.19,Denied,2024-09-27 05:28:33.641799,Minor water damage,,0
+C00747,P10132,CU1057,IL,Auto,Broker_10,Liability,5320.01,Open,2024-09-18 05:28:33.641802,Theft with forced entry,,0
+C00748,P10699,CU1504,IL,Commercial,Broker_9,Accident,10605.76,Open,2025-05-08 05:28:33.641804,Total loss due to fire,,0
+C00749,P10918,CU1146,NY,Life,Broker_7,Accident,1203.75,Open,2024-09-28 05:28:33.641807,Minor water damage,,0
+C00750,P10429,CU1987,NY,Commercial,Broker_5,Accident,17885.28,Open,2025-07-19 05:28:33.641809,Total loss due to fire,,0
+C00751,P10307,CU1929,NY,Life,Broker_4,Accident,770.33,Pending,2025-02-03 05:28:33.641811,Minor water damage,,0
+C00752,P10649,CU1769,FL,Auto,Broker_4,Accident,533.06,Closed,2025-02-20 05:28:33.641814,Theft with forced entry,2025-04-04 05:28:33.641814,1
+C00753,P10173,CU1558,CA,Homeowners,Broker_10,Theft,595.11,Open,2024-08-08 05:28:33.641816,Total loss due to fire,,0
+C00754,P10411,CU1464,NY,Auto,Broker_8,Liability,4256.35,Pending,2025-05-16 05:28:33.641819,Theft with forced entry,,0
+C00755,P10096,CU1085,IL,Homeowners,Broker_10,Fire,7592.83,Denied,2025-04-07 05:28:33.641821,Total loss due to fire,,0
+C00756,P10682,CU1267,IL,Commercial,Broker_10,Accident,2283.8,Closed,2025-01-16 05:28:33.641824,Minor water damage,2025-02-25 05:28:33.641824,1
+C00757,P10153,CU1177,IL,Commercial,Broker_10,Accident,19059.98,Pending,2025-05-05 05:28:33.641826,Customer reported late,,0
+C00758,P10694,CU1126,IL,Auto,Broker_10,Fire,2849.52,Open,2024-09-21 05:28:33.641828,Customer reported late,,0
+C00759,P10241,CU1915,TX,Life,Broker_10,Fire,815.23,Denied,2024-12-22 05:28:33.641830,Vehicle rear-ended,,0
+C00760,P10303,CU1288,FL,Auto,Broker_1,Accident,3136.49,Closed,2024-11-12 05:28:33.641833,Vehicle rear-ended,2024-12-31 05:28:33.641833,1
+C00761,P10284,CU1040,CA,Commercial,Broker_5,Theft,5682.15,Denied,2025-01-15 05:28:33.641838,Adjuster flagged for review,,0
+C00762,P10026,CU1916,CA,Life,Broker_2,Fire,8925.68,Closed,2025-07-04 05:28:33.641840,Theft with forced entry,2025-08-26 05:28:33.641840,1
+C00763,P10401,CU1507,NY,Homeowners,Broker_9,Liability,3069.54,Closed,2025-02-25 05:28:33.641842,Total loss due to fire,2025-04-14 05:28:33.641842,1
+C00764,P10359,CU1887,TX,Auto,Broker_7,Liability,4502.17,Closed,2025-05-27 05:28:33.641845,Vehicle rear-ended,2025-07-23 05:28:33.641845,1
+C00765,P10059,CU1326,CA,Commercial,Broker_10,Theft,1555.4,Open,2024-11-07 05:28:33.641847,Minor water damage,,0
+C00766,P10201,CU1891,FL,Auto,Broker_8,Flood,5191.11,Closed,2025-07-05 05:28:33.641850,Customer reported late,2025-08-07 05:28:33.641850,1
+C00767,P10761,CU1394,IL,Commercial,Broker_6,Theft,21333.48,Open,2025-06-12 05:28:33.641852,Total loss due to fire,,0
+C00768,P10873,CU1098,NY,Life,Broker_9,Accident,251.49,Pending,2025-06-30 05:28:33.641854,Adjuster flagged for review,,0
+C00769,P10580,CU1818,FL,Life,Broker_6,Flood,10881.11,Open,2024-12-17 05:28:33.641856,Customer reported late,,0
+C00770,P10969,CU1574,CA,Auto,Broker_7,Accident,4130.91,Closed,2025-06-16 05:28:33.641859,Total loss due to fire,2025-08-09 05:28:33.641859,1
+C00771,P10369,CU1541,TX,Auto,Broker_7,Liability,1452.42,Closed,2024-12-04 05:28:33.641861,Vehicle rear-ended,2025-01-27 05:28:33.641861,1
+C00772,P10532,CU1379,NY,Life,Broker_9,Fire,15493.22,Pending,2025-04-15 05:28:33.641864,Vehicle rear-ended,,0
+C00773,P10151,CU1600,CA,Life,Broker_8,Accident,3301.99,Closed,2025-03-01 05:28:33.641866,Theft with forced entry,2025-03-25 05:28:33.641866,1
+C00774,P10101,CU1955,NY,Homeowners,Broker_1,Liability,2015.02,Closed,2024-12-03 05:28:33.641868,Adjuster flagged for review,2024-12-14 05:28:33.641868,1
+C00775,P10898,CU1821,CA,Commercial,Broker_4,Theft,1001.39,Denied,2025-05-18 05:28:33.641870,Total loss due to fire,,0
+C00776,P10999,CU1695,IL,Life,Broker_7,Accident,1401.56,Closed,2025-03-12 05:28:33.641873,Adjuster flagged for review,2025-04-09 05:28:33.641873,1
+C00777,P10606,CU1444,TX,Homeowners,Broker_8,Liability,8944.29,Closed,2024-08-26 05:28:33.641875,Minor water damage,2024-09-08 05:28:33.641875,1
+C00778,P10445,CU1431,IL,Life,Broker_7,Fire,4764.9,Closed,2024-08-01 05:28:33.641878,Adjuster flagged for review,2024-09-03 05:28:33.641878,1
+C00779,P10872,CU1272,CA,Life,Broker_3,Accident,12223.37,Pending,2024-10-22 05:28:33.641880,Vehicle rear-ended,,0
+C00780,P10228,CU1101,FL,Homeowners,Broker_4,Liability,1319.62,Closed,2025-02-14 05:28:33.641883,Theft with forced entry,2025-04-09 05:28:33.641883,1
+C00781,P10124,CU1078,IL,Auto,Broker_7,Accident,645.64,Open,2024-11-19 05:28:33.641885,Vehicle rear-ended,,0
+C00782,P10769,CU1687,FL,Commercial,Broker_8,Fire,30.53,Denied,2025-03-12 05:28:33.641887,Customer reported late,,0
+C00783,P10833,CU1304,CA,Homeowners,Broker_7,Accident,3544.98,Closed,2024-09-07 05:28:33.641890,Vehicle rear-ended,2024-11-06 05:28:33.641890,1
+C00784,P10998,CU1546,TX,Commercial,Broker_6,Accident,31906.06,Closed,2024-11-08 05:28:33.641892,Total loss due to fire,2024-11-28 05:28:33.641892,1
+C00785,P10880,CU1761,FL,Life,Broker_9,Liability,5936.65,Denied,2024-11-05 05:28:33.641896,Theft with forced entry,,0
+C00786,P10937,CU1714,CA,Auto,Broker_9,Flood,1843.7,Open,2025-07-09 05:28:33.641900,Total loss due to fire,,0
+C00787,P10235,CU1836,FL,Auto,Broker_7,Accident,10472.11,Closed,2025-03-27 05:28:33.641904,Minor water damage,2025-04-02 05:28:33.641904,1
+C00788,P10161,CU1585,IL,Life,Broker_8,Flood,7609.94,Closed,2024-10-07 05:28:33.641907,Minor water damage,2024-10-15 05:28:33.641907,1
+C00789,P10553,CU1880,CA,Commercial,Broker_6,Theft,77.68,Denied,2024-09-02 05:28:33.641912,Vehicle rear-ended,,0
+C00790,P10787,CU1556,IL,Auto,Broker_1,Accident,8487.54,Open,2025-01-07 05:28:33.641917,Theft with forced entry,,0
+C00791,P10352,CU1645,NY,Auto,Broker_1,Flood,1787.14,Closed,2025-06-24 05:28:33.641919,Adjuster flagged for review,2025-07-17 05:28:33.641919,1
+C00792,P10067,CU1027,CA,Auto,Broker_6,Theft,810.67,Denied,2025-01-10 05:28:33.641922,Theft with forced entry,,0
+C00793,P10172,CU1904,FL,Life,Broker_2,Liability,1283.05,Open,2024-09-10 05:28:33.641925,Theft with forced entry,,0
+C00794,P10842,CU1898,NY,Commercial,Broker_8,Accident,3161.01,Open,2025-06-19 05:28:33.641927,Theft with forced entry,,0
+C00795,P10636,CU1658,IL,Auto,Broker_1,Liability,2765.78,Pending,2025-04-24 05:28:33.641929,Vehicle rear-ended,,0
+C00796,P10681,CU1936,IL,Auto,Broker_2,Theft,1704.62,Open,2025-05-15 05:28:33.641932,Total loss due to fire,,0
+C00797,P10558,CU1891,FL,Auto,Broker_8,Liability,945.03,Pending,2024-12-25 05:28:33.641934,Vehicle rear-ended,,0
+C00798,P10260,CU1449,NY,Life,Broker_6,Liability,7182.27,Open,2024-08-29 05:28:33.641937,Adjuster flagged for review,,0
+C00799,P10216,CU1886,TX,Commercial,Broker_10,Fire,23081.05,Closed,2024-11-19 05:28:33.641939,Total loss due to fire,2024-11-26 05:28:33.641939,1
+C00800,P10816,CU1785,FL,Life,Broker_2,Theft,7520.7,Closed,2024-08-02 05:28:33.641942,Adjuster flagged for review,2024-08-16 05:28:33.641942,1
+C00801,P10123,CU1212,IL,Auto,Broker_2,Liability,1754.44,Closed,2024-11-13 05:28:33.641944,Customer reported late,2025-01-12 05:28:33.641944,1
+C00802,P10804,CU1937,CA,Auto,Broker_7,Flood,1403.92,Closed,2025-01-07 05:28:33.641946,Customer reported late,2025-02-08 05:28:33.641946,1
+C00803,P10161,CU1585,NY,Life,Broker_5,Theft,1227.37,Closed,2025-06-17 05:28:33.641949,Total loss due to fire,2025-08-12 05:28:33.641949,1
+C00804,P10200,CU1927,TX,Homeowners,Broker_5,Fire,734.94,Denied,2025-01-20 05:28:33.641951,Vehicle rear-ended,,0
+C00805,P10453,CU1468,CA,Homeowners,Broker_8,Accident,4007.34,Open,2024-10-05 05:28:33.641953,Adjuster flagged for review,,0
+C00806,P10401,CU1507,NY,Homeowners,Broker_7,Liability,4649.42,Closed,2025-01-11 05:28:33.641956,Adjuster flagged for review,2025-02-05 05:28:33.641956,1
+C00807,P10461,CU1683,FL,Commercial,Broker_9,Flood,6112.43,Open,2025-05-19 05:28:33.641958,Minor water damage,,0
+C00808,P10274,CU1276,FL,Commercial,Broker_4,Fire,5700.51,Closed,2024-12-10 05:28:33.641960,Adjuster flagged for review,2025-02-08 05:28:33.641960,1
+C00809,P10205,CU1259,NY,Homeowners,Broker_10,Theft,1728.91,Open,2025-03-26 05:28:33.641963,Vehicle rear-ended,,0
+C00810,P10039,CU1130,TX,Auto,Broker_4,Liability,2004.71,Closed,2025-03-15 05:28:33.641965,Minor water damage,2025-04-13 05:28:33.641965,1
+C00811,P10272,CU1797,NY,Life,Broker_2,Fire,5720.89,Closed,2024-07-29 05:28:33.641967,Vehicle rear-ended,2024-08-12 05:28:33.641967,1
+C00812,P10699,CU1504,CA,Commercial,Broker_3,Fire,2149.67,Open,2025-05-02 05:28:33.641970,Theft with forced entry,,0
+C00813,P10866,CU1110,CA,Homeowners,Broker_1,Flood,1195.24,Open,2025-01-19 05:28:33.641972,Adjuster flagged for review,,0
+C00814,P10092,CU1879,FL,Commercial,Broker_1,Accident,2344.71,Closed,2024-11-10 05:28:33.641975,Theft with forced entry,2024-11-19 05:28:33.641975,1
+C00815,P10041,CU1729,NY,Life,Broker_7,Accident,1587.85,Closed,2025-02-05 05:28:33.641977,Customer reported late,2025-03-28 05:28:33.641977,1
+C00816,P10464,CU1444,FL,Auto,Broker_5,Accident,462.29,Denied,2025-06-03 05:28:33.641979,Customer reported late,,0
+C00817,P10378,CU1153,TX,Homeowners,Broker_3,Theft,8863.87,Closed,2025-07-22 05:28:33.641982,Total loss due to fire,2025-09-13 05:28:33.641982,1
+C00818,P10106,CU1242,CA,Homeowners,Broker_7,Fire,9590.4,Open,2024-08-04 05:28:33.641984,Adjuster flagged for review,,0
+C00819,P10327,CU1441,IL,Homeowners,Broker_2,Theft,1240.71,Closed,2025-04-28 05:28:33.641986,Minor water damage,2025-06-19 05:28:33.641986,1
+C00820,P10064,CU1572,IL,Homeowners,Broker_3,Fire,334.83,Open,2025-03-19 05:28:33.641989,Theft with forced entry,,0
+C00821,P10364,CU1500,NY,Life,Broker_1,Flood,6712.87,Closed,2025-05-06 05:28:33.641991,Vehicle rear-ended,2025-06-28 05:28:33.641991,1
+C00822,P10820,CU1076,NY,Auto,Broker_8,Flood,1188.3,Pending,2025-07-12 05:28:33.641994,Adjuster flagged for review,,0
+C00823,P10483,CU1526,IL,Homeowners,Broker_2,Theft,2499.72,Closed,2025-02-15 05:28:33.641996,Total loss due to fire,2025-03-07 05:28:33.641996,1
+C00824,P10646,CU1654,NY,Auto,Broker_7,Theft,331.42,Closed,2025-04-15 05:28:33.641998,Vehicle rear-ended,2025-06-08 05:28:33.641998,1
+C00825,P10900,CU1558,CA,Commercial,Broker_9,Flood,1282.66,Open,2025-02-21 05:28:33.642001,Theft with forced entry,,0
+C00826,P10023,CU1654,TX,Life,Broker_6,Liability,7872.82,Closed,2024-08-28 05:28:33.642005,Adjuster flagged for review,2024-09-03 05:28:33.642005,1
+C00827,P10539,CU1866,TX,Commercial,Broker_2,Accident,8158.33,Denied,2024-08-10 05:28:33.642009,Theft with forced entry,,0
+C00828,P10061,CU1288,FL,Life,Broker_2,Accident,1160.2,Open,2025-04-17 05:28:33.642013,Adjuster flagged for review,,0
+C00829,P10490,CU1231,CA,Auto,Broker_9,Flood,2046.72,Open,2025-04-20 05:28:33.642017,Adjuster flagged for review,,0
+C00830,P10272,CU1797,NY,Life,Broker_10,Accident,720.73,Closed,2025-05-08 05:28:33.642021,Theft with forced entry,2025-05-23 05:28:33.642021,1
+C00831,P10228,CU1101,NY,Homeowners,Broker_8,Liability,385.34,Closed,2025-07-29 05:28:33.642025,Theft with forced entry,2025-09-08 05:28:33.642025,1
+C00832,P10019,CU1759,FL,Homeowners,Broker_9,Liability,24250.06,Closed,2024-09-01 05:28:33.642030,Vehicle rear-ended,2024-10-20 05:28:33.642030,1
+C00833,P10002,CU1618,FL,Auto,Broker_4,Fire,5329.67,Pending,2024-08-20 05:28:33.642033,Total loss due to fire,,0
+C00834,P10420,CU1202,NY,Life,Broker_4,Theft,3905.48,Open,2025-03-06 05:28:33.642037,Theft with forced entry,,0
+C00835,P10729,CU1559,NY,Auto,Broker_2,Accident,7251.47,Closed,2025-03-18 05:28:33.642041,Customer reported late,2025-03-27 05:28:33.642041,1
+C00836,P10910,CU1183,CA,Life,Broker_10,Liability,9165.32,Closed,2025-06-03 05:28:33.642045,Total loss due to fire,2025-07-04 05:28:33.642045,1
+C00837,P10306,CU1271,FL,Homeowners,Broker_1,Theft,8217.94,Open,2025-05-24 05:28:33.642049,Customer reported late,,0
+C00838,P10431,CU1513,CA,Life,Broker_10,Theft,83.39,Closed,2024-11-20 05:28:33.642054,Vehicle rear-ended,2024-12-26 05:28:33.642054,1
+C00839,P10135,CU1880,NY,Homeowners,Broker_4,Fire,1033.94,Open,2025-02-08 05:28:33.642058,Theft with forced entry,,0
+C00840,P10908,CU1516,IL,Commercial,Broker_10,Theft,5319.68,Open,2025-06-22 05:28:33.642062,Total loss due to fire,,0
+C00841,P10943,CU1690,IL,Commercial,Broker_10,Theft,2356.1,Open,2025-03-16 05:28:33.642066,Theft with forced entry,,0
+C00842,P10514,CU1950,NY,Auto,Broker_8,Flood,20222.82,Pending,2025-01-25 05:28:33.642070,Adjuster flagged for review,,0
+C00843,P10192,CU1874,FL,Commercial,Broker_2,Fire,5474.17,Closed,2024-09-03 05:28:33.642074,Theft with forced entry,2024-09-29 05:28:33.642074,1
+C00844,P10584,CU1040,IL,Life,Broker_8,Fire,15680.6,Closed,2025-03-05 05:28:33.642077,Total loss due to fire,2025-05-01 05:28:33.642077,1
+C00845,P10414,CU1319,FL,Life,Broker_1,Accident,1124.77,Closed,2025-05-21 05:28:33.642080,Theft with forced entry,2025-06-21 05:28:33.642080,1
+C00846,P10872,CU1272,IL,Life,Broker_1,Theft,9973.92,Closed,2025-07-02 05:28:33.642082,Theft with forced entry,2025-08-01 05:28:33.642082,1
+C00847,P10117,CU1877,FL,Life,Broker_4,Accident,1938.27,Closed,2025-05-19 05:28:33.642085,Minor water damage,2025-07-09 05:28:33.642085,1
+C00848,P10665,CU1550,IL,Homeowners,Broker_7,Liability,22812.86,Pending,2025-03-23 05:28:33.642087,Minor water damage,,0
+C00849,P10208,CU1365,FL,Homeowners,Broker_9,Theft,858.03,Closed,2025-06-15 05:28:33.642089,Total loss due to fire,2025-07-10 05:28:33.642089,1
+C00850,P10951,CU1750,CA,Commercial,Broker_5,Liability,3631.86,Closed,2025-01-21 05:28:33.642092,Total loss due to fire,2025-03-02 05:28:33.642092,1
+C00851,P10033,CU1312,FL,Auto,Broker_2,Flood,7871.43,Open,2025-05-03 05:28:33.642094,Adjuster flagged for review,,0
+C00852,P10648,CU1934,CA,Homeowners,Broker_7,Theft,2833.83,Closed,2025-06-28 05:28:33.642096,Adjuster flagged for review,2025-08-12 05:28:33.642096,1
+C00853,P10317,CU1659,CA,Auto,Broker_2,Accident,3156.35,Closed,2024-12-21 05:28:33.642099,Theft with forced entry,2025-01-27 05:28:33.642099,1
+C00854,P10119,CU1213,NY,Life,Broker_9,Accident,21472.2,Pending,2024-07-30 05:28:33.642101,Customer reported late,,0
+C00855,P10626,CU1849,CA,Commercial,Broker_9,Theft,2769.61,Open,2025-02-15 05:28:33.642103,Total loss due to fire,,0
+C00856,P10524,CU1912,TX,Life,Broker_3,Accident,4632.62,Open,2025-05-14 05:28:33.642106,Theft with forced entry,,0
+C00857,P10580,CU1818,CA,Life,Broker_8,Theft,280.42,Closed,2024-11-23 05:28:33.642108,Customer reported late,2024-12-15 05:28:33.642108,1
+C00858,P10936,CU1922,FL,Commercial,Broker_4,Fire,9232.45,Open,2025-04-30 05:28:33.642111,Minor water damage,,0
+C00859,P10844,CU1353,CA,Homeowners,Broker_3,Accident,5223.01,Open,2024-09-24 05:28:33.642113,Adjuster flagged for review,,0
+C00860,P10768,CU1929,FL,Life,Broker_1,Theft,2587.74,Denied,2025-07-04 05:28:33.642116,Total loss due to fire,,0
+C00861,P10088,CU1065,FL,Commercial,Broker_5,Theft,81.51,Closed,2024-09-12 05:28:33.642120,Theft with forced entry,2024-10-15 05:28:33.642120,1
+C00862,P10511,CU1983,TX,Life,Broker_4,Accident,4478.38,Denied,2025-01-27 05:28:33.642123,Minor water damage,,0
+C00863,P10046,CU1370,CA,Commercial,Broker_1,Fire,63.69,Denied,2025-03-19 05:28:33.642127,Vehicle rear-ended,,0
+C00864,P10771,CU1439,CA,Commercial,Broker_10,Accident,6.02,Open,2025-04-03 05:28:33.642131,Minor water damage,,0
+C00865,P10739,CU1439,IL,Commercial,Broker_8,Theft,4786.85,Closed,2025-05-06 05:28:33.642135,Theft with forced entry,2025-06-05 05:28:33.642135,1
+C00866,P10958,CU1328,IL,Commercial,Broker_8,Fire,1047.54,Open,2025-07-10 05:28:33.642139,Adjuster flagged for review,,0
+C00867,P10691,CU1212,NY,Life,Broker_8,Liability,1065.27,Pending,2024-10-24 05:28:33.642143,Customer reported late,,0
+C00868,P10521,CU1213,FL,Life,Broker_3,Flood,5296.07,Closed,2024-09-28 05:28:33.642147,Vehicle rear-ended,2024-10-12 05:28:33.642147,1
+C00869,P10283,CU1545,TX,Auto,Broker_6,Accident,275.96,Closed,2025-03-23 05:28:33.642151,Vehicle rear-ended,2025-05-22 05:28:33.642151,1
+C00870,P10376,CU1855,IL,Life,Broker_7,Theft,1880.06,Closed,2025-03-25 05:28:33.642155,Adjuster flagged for review,2025-04-06 05:28:33.642155,1
+C00871,P10637,CU1750,CA,Auto,Broker_9,Fire,809.25,Closed,2024-09-30 05:28:33.642159,Vehicle rear-ended,2024-11-15 05:28:33.642159,1
+C00872,P10133,CU1795,NY,Commercial,Broker_5,Fire,4339.6,Open,2025-02-03 05:28:33.642163,Total loss due to fire,,0
+C00873,P10666,CU1539,TX,Auto,Broker_9,Liability,5420.07,Closed,2024-08-13 05:28:33.642167,Theft with forced entry,2024-08-25 05:28:33.642167,1
+C00874,P10247,CU1700,CA,Auto,Broker_6,Accident,6385.15,Closed,2024-09-05 05:28:33.642171,Vehicle rear-ended,2024-09-23 05:28:33.642171,1
+C00875,P10651,CU1796,CA,Auto,Broker_10,Fire,1473.41,Denied,2025-05-24 05:28:33.642176,Minor water damage,,0
+C00876,P10317,CU1659,FL,Auto,Broker_10,Liability,467.43,Closed,2025-02-15 05:28:33.642180,Customer reported late,2025-04-02 05:28:33.642180,1
+C00877,P10435,CU1597,FL,Auto,Broker_10,Theft,409.76,Closed,2025-05-29 05:28:33.642184,Theft with forced entry,2025-06-20 05:28:33.642184,1
+C00878,P10175,CU1943,IL,Homeowners,Broker_4,Liability,2776.95,Denied,2024-08-10 05:28:33.642187,Adjuster flagged for review,,0
+C00879,P10834,CU1908,IL,Commercial,Broker_1,Accident,14579.47,Open,2025-03-13 05:28:33.642190,Minor water damage,,0
+C00880,P10685,CU1832,CA,Life,Broker_1,Liability,1227.77,Denied,2025-01-26 05:28:33.642192,Total loss due to fire,,0
+C00881,P10992,CU1276,CA,Auto,Broker_10,Fire,1483.56,Open,2024-11-19 05:28:33.642195,Vehicle rear-ended,,0
+C00882,P10585,CU1550,IL,Homeowners,Broker_5,Fire,531.74,Closed,2025-01-15 05:28:33.642199,Minor water damage,2025-02-12 05:28:33.642199,1
+C00883,P10350,CU1114,IL,Life,Broker_3,Flood,4651.57,Closed,2024-11-01 05:28:33.642203,Theft with forced entry,2024-11-10 05:28:33.642203,1
+C00884,P10142,CU1967,CA,Commercial,Broker_5,Liability,5695.19,Closed,2025-03-27 05:28:33.642207,Minor water damage,2025-04-15 05:28:33.642207,1
+C00885,P10966,CU1863,TX,Homeowners,Broker_5,Theft,5149.13,Denied,2025-07-16 05:28:33.642211,Total loss due to fire,,0
+C00886,P10803,CU1541,CA,Life,Broker_1,Accident,9871.09,Open,2025-02-12 05:28:33.642215,Customer reported late,,0
+C00887,P10397,CU1762,TX,Life,Broker_8,Flood,3331.8,Closed,2024-09-07 05:28:33.642219,Vehicle rear-ended,2024-11-04 05:28:33.642219,1
+C00888,P10623,CU1688,TX,Homeowners,Broker_5,Liability,721.99,Closed,2025-06-28 05:28:33.642223,Theft with forced entry,2025-08-05 05:28:33.642223,1
+C00889,P10717,CU1865,CA,Commercial,Broker_5,Theft,1708.26,Denied,2025-04-11 05:28:33.642227,Vehicle rear-ended,,0
+C00890,P10642,CU1736,NY,Homeowners,Broker_9,Flood,5429.91,Open,2024-09-07 05:28:33.642231,Vehicle rear-ended,,0
+C00891,P10368,CU1658,IL,Commercial,Broker_8,Fire,4748.23,Denied,2025-04-18 05:28:33.642233,Adjuster flagged for review,,0
+C00892,P10500,CU1454,FL,Commercial,Broker_1,Accident,3785.8,Closed,2025-07-20 05:28:33.642236,Vehicle rear-ended,2025-08-26 05:28:33.642236,1
+C00893,P10621,CU1430,CA,Life,Broker_3,Liability,5743.71,Open,2025-04-25 05:28:33.642238,Minor water damage,,0
+C00894,P10369,CU1541,TX,Auto,Broker_7,Theft,5072.15,Closed,2024-12-02 05:28:33.642240,Minor water damage,2024-12-15 05:28:33.642240,1
+C00895,P10578,CU1855,CA,Homeowners,Broker_1,Fire,10656.83,Open,2025-02-12 05:28:33.642243,Customer reported late,,0
+C00896,P10381,CU1661,IL,Commercial,Broker_1,Flood,4409.64,Closed,2025-07-10 05:28:33.642245,Total loss due to fire,2025-09-08 05:28:33.642245,1
+C00897,P10085,CU1021,TX,Auto,Broker_5,Accident,7538.95,Open,2024-09-18 05:28:33.642247,Theft with forced entry,,0
+C00898,P10786,CU1074,FL,Auto,Broker_9,Flood,1429.8,Closed,2024-10-08 05:28:33.642250,Minor water damage,2024-10-22 05:28:33.642250,1
+C00899,P10738,CU1289,FL,Homeowners,Broker_6,Flood,5668.85,Closed,2024-08-25 05:28:33.642252,Vehicle rear-ended,2024-08-30 05:28:33.642252,1
+C00900,P10459,CU1868,FL,Life,Broker_10,Theft,11623.85,Closed,2025-03-27 05:28:33.642255,Total loss due to fire,2025-05-05 05:28:33.642255,1
+C00901,P10949,CU1946,NY,Homeowners,Broker_2,Fire,2436.62,Closed,2024-11-18 05:28:33.642257,Theft with forced entry,2024-12-15 05:28:33.642257,1
+C00902,P10324,CU1190,TX,Commercial,Broker_9,Liability,7550.32,Closed,2024-11-03 05:28:33.642259,Theft with forced entry,2024-11-17 05:28:33.642259,1
+C00903,P10521,CU1213,TX,Life,Broker_6,Theft,6451.09,Open,2025-05-11 05:28:33.642262,Theft with forced entry,,0
+C00904,P10488,CU1604,NY,Auto,Broker_5,Accident,306.86,Closed,2025-07-12 05:28:33.642264,Theft with forced entry,2025-08-12 05:28:33.642264,1
+C00905,P10928,CU1227,TX,Life,Broker_5,Flood,4355.49,Pending,2024-09-10 05:28:33.642267,Customer reported late,,0
+C00906,P10396,CU1072,NY,Commercial,Broker_3,Accident,697.4,Denied,2025-04-21 05:28:33.642269,Theft with forced entry,,0
+C00907,P10895,CU1116,CA,Auto,Broker_6,Theft,17104.83,Open,2025-07-29 05:28:33.642272,Total loss due to fire,,0
+C00908,P10354,CU1218,IL,Auto,Broker_4,Theft,8340.83,Open,2025-03-13 05:28:33.642276,Minor water damage,,0
+C00909,P10946,CU1730,FL,Auto,Broker_10,Liability,581.12,Pending,2025-01-28 05:28:33.642280,Total loss due to fire,,0
+C00910,P10287,CU1337,NY,Life,Broker_2,Flood,649.13,Closed,2024-10-02 05:28:33.642284,Vehicle rear-ended,2024-11-04 05:28:33.642284,1
+C00911,P10458,CU1275,NY,Auto,Broker_3,Theft,4512.85,Closed,2025-06-20 05:28:33.642288,Adjuster flagged for review,2025-07-18 05:28:33.642288,1
+C00912,P10623,CU1688,NY,Homeowners,Broker_9,Accident,2114.75,Closed,2025-07-29 05:28:33.642292,Customer reported late,2025-08-18 05:28:33.642292,1
+C00913,P10997,CU1663,CA,Commercial,Broker_9,Liability,177.65,Closed,2025-04-05 05:28:33.642296,Customer reported late,2025-04-22 05:28:33.642296,1
+C00914,P10535,CU1440,NY,Homeowners,Broker_6,Accident,3900.52,Closed,2025-06-19 05:28:33.642300,Vehicle rear-ended,2025-07-21 05:28:33.642300,1
+C00915,P10290,CU1952,IL,Life,Broker_10,Flood,2453.85,Pending,2025-07-23 05:28:33.642304,Total loss due to fire,,0
+C00916,P10850,CU1340,IL,Commercial,Broker_10,Liability,532.79,Closed,2024-09-19 05:28:33.642308,Total loss due to fire,2024-10-13 05:28:33.642308,1
+C00917,P10837,CU1853,FL,Auto,Broker_9,Liability,8095.43,Open,2025-01-04 05:28:33.642311,Vehicle rear-ended,,0
+C00918,P10167,CU1163,CA,Auto,Broker_4,Liability,12330.04,Open,2025-07-21 05:28:33.642314,Adjuster flagged for review,,0
+C00919,P10949,CU1946,IL,Homeowners,Broker_5,Fire,7065.12,Open,2025-04-28 05:28:33.642316,Theft with forced entry,,0
+C00920,P10620,CU1669,TX,Homeowners,Broker_10,Liability,8641.74,Closed,2025-03-25 05:28:33.642318,Theft with forced entry,2025-05-09 05:28:33.642318,1
+C00921,P10427,CU1707,TX,Homeowners,Broker_6,Accident,1219.86,Open,2024-11-16 05:28:33.642321,Minor water damage,,0
+C00922,P10701,CU1795,TX,Life,Broker_9,Accident,1529.73,Open,2025-03-26 05:28:33.642324,Total loss due to fire,,0
+C00923,P10489,CU1405,NY,Auto,Broker_5,Flood,1169.3,Pending,2025-01-02 05:28:33.642326,Total loss due to fire,,0
+C00924,P10354,CU1218,NY,Auto,Broker_8,Theft,7242.2,Open,2024-07-29 05:28:33.642329,Vehicle rear-ended,,0
+C00925,P10195,CU1928,TX,Life,Broker_1,Theft,14774.59,Open,2025-01-11 05:28:33.642332,Vehicle rear-ended,,0
+C00926,P10544,CU1748,FL,Auto,Broker_5,Fire,6308.67,Open,2025-03-04 05:28:33.642336,Theft with forced entry,,0
+C00927,P10716,CU1363,FL,Auto,Broker_10,Liability,10662.81,Open,2024-09-28 05:28:33.642340,Total loss due to fire,,0
+C00928,P10823,CU1637,NY,Commercial,Broker_1,Fire,5090.22,Closed,2024-11-29 05:28:33.642345,Total loss due to fire,2024-12-11 05:28:33.642345,1
+C00929,P10931,CU1416,TX,Commercial,Broker_10,Flood,2452.34,Pending,2025-01-19 05:28:33.642349,Customer reported late,,0
+C00930,P10693,CU1048,FL,Homeowners,Broker_6,Flood,2773.55,Denied,2024-09-11 05:28:33.642353,Minor water damage,,0
+C00931,P10658,CU1265,NY,Commercial,Broker_7,Theft,391.55,Closed,2024-11-30 05:28:33.642356,Minor water damage,2024-12-29 05:28:33.642356,1
+C00932,P10938,CU1703,TX,Homeowners,Broker_5,Flood,159.81,Closed,2025-01-16 05:28:33.642358,Theft with forced entry,2025-02-11 05:28:33.642358,1
+C00933,P10779,CU1433,CA,Commercial,Broker_1,Liability,5945.02,Closed,2024-10-21 05:28:33.642361,Adjuster flagged for review,2024-12-06 05:28:33.642361,1
+C00934,P10010,CU1689,TX,Life,Broker_6,Accident,2885.08,Open,2025-03-09 05:28:33.642367,Total loss due to fire,,0
+C00935,P10581,CU1570,TX,Homeowners,Broker_10,Flood,4017.21,Open,2025-02-09 05:28:33.642371,Customer reported late,,0
+C00936,P10255,CU1210,IL,Homeowners,Broker_5,Fire,4078.4,Pending,2024-11-14 05:28:33.642375,Total loss due to fire,,0
+C00937,P10395,CU1062,IL,Auto,Broker_6,Liability,1624.33,Open,2024-12-19 05:28:33.642380,Vehicle rear-ended,,0
+C00938,P10730,CU1671,CA,Homeowners,Broker_10,Flood,3230.29,Open,2025-01-01 05:28:33.642384,Theft with forced entry,,0
+C00939,P10808,CU1548,CA,Life,Broker_7,Flood,3181.57,Closed,2025-02-01 05:28:33.642389,Adjuster flagged for review,2025-04-01 05:28:33.642389,1
+C00940,P10408,CU1828,TX,Life,Broker_7,Liability,2458.61,Closed,2024-11-18 05:28:33.642391,Minor water damage,2024-11-28 05:28:33.642391,1
+C00941,P10361,CU1549,FL,Auto,Broker_2,Flood,8592.79,Open,2025-02-12 05:28:33.642394,Total loss due to fire,,0
+C00942,P10258,CU1376,CA,Homeowners,Broker_3,Accident,2999.78,Open,2024-10-22 05:28:33.642396,Adjuster flagged for review,,0
+C00943,P10002,CU1618,TX,Auto,Broker_6,Theft,4627.22,Closed,2025-06-21 05:28:33.642398,Theft with forced entry,2025-08-02 05:28:33.642398,1
+C00944,P10083,CU1516,NY,Life,Broker_3,Liability,11293.8,Closed,2025-02-12 05:28:33.642401,Minor water damage,2025-04-07 05:28:33.642401,1
+C00945,P10155,CU1914,IL,Commercial,Broker_2,Fire,10058.3,Open,2025-06-11 05:28:33.642403,Total loss due to fire,,0
+C00946,P10662,CU1117,FL,Homeowners,Broker_4,Flood,11055.6,Closed,2025-01-03 05:28:33.642406,Customer reported late,2025-01-29 05:28:33.642406,1
+C00947,P10175,CU1943,TX,Homeowners,Broker_5,Theft,1573.59,Closed,2025-02-08 05:28:33.642408,Theft with forced entry,2025-03-02 05:28:33.642408,1
+C00948,P10706,CU1419,NY,Life,Broker_10,Fire,178.05,Denied,2024-11-08 05:28:33.642410,Total loss due to fire,,0
+C00949,P10937,CU1714,IL,Auto,Broker_9,Fire,1512.74,Closed,2024-08-09 05:28:33.642413,Minor water damage,2024-10-08 05:28:33.642413,1
+C00950,P10471,CU1479,NY,Life,Broker_3,Accident,1633.55,Open,2024-12-03 05:28:33.642415,Minor water damage,,0
+C00951,P10618,CU1173,TX,Auto,Broker_3,Theft,12004.32,Closed,2024-11-20 05:28:33.642417,Customer reported late,2024-12-05 05:28:33.642417,1
+C00952,P10423,CU1954,CA,Commercial,Broker_6,Liability,5238.3,Closed,2025-04-02 05:28:33.642421,Theft with forced entry,2025-04-22 05:28:33.642421,1
+C00953,P10133,CU1795,IL,Commercial,Broker_5,Theft,426.18,Open,2024-11-24 05:28:33.642423,Theft with forced entry,,0
+C00954,P10787,CU1556,NY,Auto,Broker_6,Theft,727.32,Closed,2024-11-17 05:28:33.642425,Adjuster flagged for review,2024-12-19 05:28:33.642425,1
+C00955,P10906,CU1486,CA,Auto,Broker_7,Fire,846.1,Open,2025-01-20 05:28:33.642428,Total loss due to fire,,0
+C00956,P10863,CU1636,FL,Homeowners,Broker_3,Accident,4976.96,Open,2025-06-30 05:28:33.642430,Adjuster flagged for review,,0
+C00957,P10379,CU1613,TX,Life,Broker_5,Accident,6647.95,Closed,2024-08-13 05:28:33.642432,Minor water damage,2024-09-02 05:28:33.642432,1
+C00958,P10666,CU1539,TX,Auto,Broker_8,Theft,9817.86,Open,2025-05-22 05:28:33.642435,Minor water damage,,0
+C00959,P10276,CU1759,IL,Homeowners,Broker_4,Theft,14120.38,Denied,2025-02-15 05:28:33.642437,Customer reported late,,0
+C00960,P10235,CU1836,NY,Auto,Broker_10,Flood,1126.38,Closed,2025-04-29 05:28:33.642441,Customer reported late,2025-06-17 05:28:33.642441,1
+C00961,P10751,CU1668,FL,Homeowners,Broker_2,Fire,1853.67,Closed,2025-07-11 05:28:33.642446,Theft with forced entry,2025-08-11 05:28:33.642446,1
+C00962,P10881,CU1786,IL,Commercial,Broker_4,Liability,1374.31,Closed,2025-05-06 05:28:33.642449,Adjuster flagged for review,2025-05-17 05:28:33.642449,1
+C00963,P10012,CU1986,IL,Auto,Broker_2,Liability,2221.77,Closed,2025-03-06 05:28:33.642453,Minor water damage,2025-04-20 05:28:33.642453,1
+C00964,P10341,CU1459,NY,Life,Broker_3,Accident,12305.86,Open,2025-06-09 05:28:33.642457,Total loss due to fire,,0
+C00965,P10034,CU1164,FL,Commercial,Broker_4,Fire,4279.66,Denied,2025-03-04 05:28:33.642462,Vehicle rear-ended,,0
+C00966,P10558,CU1891,NY,Auto,Broker_4,Accident,6700.72,Pending,2025-02-21 05:28:33.642465,Total loss due to fire,,0
+C00967,P10213,CU1523,TX,Commercial,Broker_10,Liability,3367.89,Open,2025-04-22 05:28:33.642469,Customer reported late,,0
+C00968,P10411,CU1464,CA,Auto,Broker_9,Theft,146.41,Open,2024-08-22 05:28:33.642473,Total loss due to fire,,0
+C00969,P10404,CU1397,TX,Auto,Broker_10,Fire,331.74,Open,2025-03-04 05:28:33.642477,Minor water damage,,0
+C00970,P10493,CU1549,TX,Auto,Broker_6,Fire,3860.12,Closed,2024-08-11 05:28:33.642481,Adjuster flagged for review,2024-08-25 05:28:33.642481,1
+C00971,P10657,CU1972,IL,Auto,Broker_9,Flood,6343.25,Closed,2024-09-07 05:28:33.642486,Theft with forced entry,2024-09-23 05:28:33.642486,1
+C00972,P10158,CU1778,TX,Homeowners,Broker_4,Theft,1212.46,Denied,2024-11-29 05:28:33.642490,Adjuster flagged for review,,0
+C00973,P10955,CU1162,FL,Commercial,Broker_9,Theft,6399.04,Closed,2025-06-12 05:28:33.642498,Vehicle rear-ended,2025-08-08 05:28:33.642498,1
+C00974,P10636,CU1658,TX,Auto,Broker_9,Accident,8321.21,Closed,2025-01-22 05:28:33.642502,Theft with forced entry,2025-02-28 05:28:33.642502,1
+C00975,P10109,CU1959,FL,Homeowners,Broker_6,Fire,2654.27,Closed,2025-01-31 05:28:33.642505,Vehicle rear-ended,2025-02-06 05:28:33.642505,1
+C00976,P10548,CU1652,NY,Homeowners,Broker_5,Accident,6860.36,Closed,2024-12-10 05:28:33.642510,Vehicle rear-ended,2025-02-06 05:28:33.642510,1
+C00977,P10788,CU1771,IL,Homeowners,Broker_3,Theft,2587.82,Closed,2025-04-19 05:28:33.642514,Minor water damage,2025-05-17 05:28:33.642514,1
+C00978,P10525,CU1572,FL,Life,Broker_5,Flood,5671.47,Closed,2025-05-26 05:28:33.642519,Minor water damage,2025-06-29 05:28:33.642519,1
+C00979,P10984,CU1725,TX,Life,Broker_3,Fire,7219.55,Closed,2025-01-24 05:28:33.642522,Customer reported late,2025-03-03 05:28:33.642522,1
+C00980,P10346,CU1763,IL,Homeowners,Broker_5,Theft,24095.91,Closed,2024-08-24 05:28:33.642525,Customer reported late,2024-10-19 05:28:33.642525,1
+C00981,P10743,CU1195,IL,Commercial,Broker_5,Flood,2118.63,Closed,2024-09-26 05:28:33.642529,Vehicle rear-ended,2024-10-09 05:28:33.642529,1
+C00982,P10827,CU1735,FL,Homeowners,Broker_2,Liability,2646.99,Closed,2024-08-27 05:28:33.642535,Adjuster flagged for review,2024-10-26 05:28:33.642535,1
+C00983,P10635,CU1484,FL,Commercial,Broker_9,Theft,905.33,Closed,2025-01-07 05:28:33.642539,Customer reported late,2025-02-28 05:28:33.642539,1
+C00984,P10278,CU1189,CA,Homeowners,Broker_7,Liability,1141.24,Closed,2024-08-30 05:28:33.642543,Minor water damage,2024-09-19 05:28:33.642543,1
+C00985,P10478,CU1331,CA,Auto,Broker_6,Accident,5910.98,Closed,2025-06-21 05:28:33.642546,Customer reported late,2025-08-18 05:28:33.642546,1
+C00986,P10110,CU1031,IL,Commercial,Broker_5,Liability,12447.32,Closed,2025-05-12 05:28:33.642549,Vehicle rear-ended,2025-05-19 05:28:33.642549,1
+C00987,P10635,CU1484,CA,Commercial,Broker_4,Theft,2509.37,Closed,2024-12-01 05:28:33.642551,Theft with forced entry,2024-12-29 05:28:33.642551,1
+C00988,P10924,CU1863,TX,Life,Broker_8,Liability,991.31,Open,2024-10-10 05:28:33.642553,Adjuster flagged for review,,0
+C00989,P10430,CU1775,NY,Auto,Broker_2,Fire,1678.06,Open,2024-08-31 05:28:33.642556,Adjuster flagged for review,,0
+C00990,P10541,CU1141,IL,Auto,Broker_8,Theft,3035.32,Closed,2025-06-10 05:28:33.642558,Total loss due to fire,2025-08-04 05:28:33.642558,1
+C00991,P10114,CU1153,NY,Auto,Broker_1,Flood,1717.03,Closed,2025-04-14 05:28:33.642560,Customer reported late,2025-05-26 05:28:33.642560,1
+C00992,P10089,CU1841,CA,Commercial,Broker_10,Liability,1330.12,Pending,2024-11-25 05:28:33.642563,Adjuster flagged for review,,0
+C00993,P10211,CU1543,FL,Auto,Broker_1,Fire,6658.74,Closed,2025-02-01 05:28:33.642565,Minor water damage,2025-03-18 05:28:33.642565,1
+C00994,P10549,CU1700,IL,Commercial,Broker_3,Accident,39.38,Closed,2024-10-27 05:28:33.642567,Theft with forced entry,2024-11-12 05:28:33.642567,1
+C00995,P10594,CU1557,CA,Auto,Broker_5,Accident,3874.29,Open,2025-04-26 05:28:33.642570,Minor water damage,,0
+C00996,P10538,CU1752,TX,Commercial,Broker_6,Liability,7893.74,Open,2024-09-16 05:28:33.642572,Customer reported late,,0
+C00997,P10728,CU1074,IL,Life,Broker_4,Accident,1547.79,Closed,2024-09-06 05:28:33.642574,Vehicle rear-ended,2024-10-25 05:28:33.642574,1
+C00998,P10359,CU1887,IL,Auto,Broker_7,Flood,4622.77,Open,2024-11-18 05:28:33.642577,Total loss due to fire,,0
+C00999,P10485,CU1658,FL,Homeowners,Broker_7,Theft,5526.68,Closed,2024-12-02 05:28:33.642579,Total loss due to fire,2025-01-08 05:28:33.642579,1
