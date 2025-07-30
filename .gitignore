@@ -1,16 +1,10 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .env
-
-# Data
 data/*.csv
-
-# Streamlit cache
 .streamlit/
-
-# Jupyter
 .ipynb_checkpoints/
+.DS_Store
 
