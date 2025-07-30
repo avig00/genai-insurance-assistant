@@ -4,9 +4,6 @@ from pathlib import Path
 import time
 import sqlparse
 
-
-
-
 # Add project root to path
 root_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_dir))
@@ -71,6 +68,28 @@ st.markdown(
             overflow-x: auto;
             color: #333;
         }
+
+        div.stButton > button {
+            background-color: #29B5E8 !important;
+            color: white !important;
+            border: none !important;
+            border-radius: 6px;
+            padding: 0.5em 1.5em;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        div.stButton > button:hover {
+            background-color: #199FD6 !important;
+            transform: scale(1.02);
+            transition: 0.1s ease-in-out;
+        }
+
+        div.stButton > button:active {
+            background-color: #147BA7 !important;
+            transform: scale(0.98);
+        }
+
     </style>
     """,
     unsafe_allow_html=True
@@ -92,20 +111,37 @@ question = st.text_input(
 )
 
 # --------------------------
-# SQL Generation
+# SQL Generation with Caching
 # --------------------------
 if question:
-    with st.spinner("Generating SQL..."):
-        time.sleep(0.5)
-        try:
-            sql = generate_sql(question)
-            st.success("Generated SQL:")
-            formatted_sql = sqlparse.format(sql, reindent=True, keyword_case="upper")
-            st.markdown(f"<pre><code class='language-sql'>{formatted_sql}</code></pre>", unsafe_allow_html=True)
+    if "last_question" not in st.session_state or st.session_state.last_question != question:
+        with st.spinner("Generating SQL..."):
+            time.sleep(0.5)
+            try:
+                sql = generate_sql(question)
+                st.success("Generated SQL:")
+                formatted_sql = sqlparse.format(sql, reindent=True, keyword_case="upper")
+                st.markdown(f"<pre><code class='language-sql'>{formatted_sql}</code></pre>", unsafe_allow_html=True)
 
-            st.session_state.history.append((question, sql))
+                st.session_state.history.append((question, sql))
+                st.session_state.generated_sql = sql
+                st.session_state.last_question = question
 
-            
-            
-        except Exception as e:
-            st.error(f"Error generating SQL: {str(e)}")
+            except Exception as e:
+                st.error(f"Error generating SQL: {str(e)}")
+                if "model_pending_deploy" in str(e):
+                    st.info("The model is warming up. Please wait 1–2 minutes and try again.")
+    else:
+        # Re-show existing SQL without regenerating
+        sql = st.session_state.generated_sql
+        st.success("Generated SQL:")
+        formatted_sql = sqlparse.format(sql, reindent=True, keyword_case="upper")
+        st.markdown(f"<pre><code class='language-sql'>{formatted_sql}</code></pre>", unsafe_allow_html=True)
+
+    # --------------------------
+    # Run Query Button (Placeholder)
+    # --------------------------
+    if "generated_sql" in st.session_state:
+        if st.button("Run Query"):
+            st.info("Query execution coming soon...")
+
