@@ -1,0 +1,49 @@
+{
+    "claims": {
+      "columns": [
+        "CLAIM_ID",
+        "POLICY_ID",
+        "CUSTOMER_ID",
+        "STATE",
+        "LINE_OF_BUSINESS",
+        "BROKER_ID",
+        "CLAIM_TYPE",
+        "CLAIM_AMOUNT",
+        "CLAIM_STATUS",
+        "DATE_REPORTED",
+        "NOTES",
+        "DATE_RESOLVED",
+        "IS_CLOSED"
+      ],
+      "primary_key": "CLAIM_ID"
+    },
+    "policies": {
+      "columns": [
+        "POLICY_ID",
+        "CUSTOMER_ID",
+        "LINE_OF_BUSINESS",
+        "START_DATE",
+        "END_DATE",
+        "PREMIUM_AMOUNT"
+      ],
+      "primary_key": "POLICY_ID"
+    },
+    "customers": {
+      "columns": [
+        "CUSTOMER_ID",
+        "CUSTOMER_AGE",
+        "CUSTOMER_STATE",
+        "CUSTOMER_INCOME"
+      ],
+      "primary_key": "CUSTOMER_ID"
+    },
+    "brokers": {
+      "columns": [
+        "BROKER_ID",
+        "BROKER_NAME",
+        "BROKER_RATING"
+      ],
+      "primary_key": "BROKER_ID"
+    }
+  }
+  

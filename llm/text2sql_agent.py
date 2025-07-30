@@ -1,0 +1,56 @@
+import os
+import json
+from pathlib import Path
+from dotenv import load_dotenv
+from openai import OpenAI
+
+# Load token from .env
+load_dotenv()
+HF_TOKEN = os.getenv("HF_TOKEN")
+
+# Initialize HF-compatible OpenAI client
+client = OpenAI(
+    base_url="https://router.huggingface.co/v1",
+    api_key=HF_TOKEN,
+)
+
+# Load schema from project root regardless of working directory
+def load_schema(schema_path: str = None) -> dict:
+    if schema_path is None:
+        base_dir = Path(__file__).resolve().parent.parent
+        schema_path = base_dir / "schema" / "db_schema.json"
+    with open(schema_path, "r") as f:
+        return json.load(f)
+
+# Format schema for LLM prompt
+def format_schema_for_prompt(schema: dict) -> str:
+    lines = ["You are a data assistant. Here's the schema:"]
+    for table, meta in schema.items():
+        columns = ", ".join(meta["columns"])
+        lines.append(f"Table `{table}` with columns: {columns}")
+    return "\n".join(lines)
+
+# Build system + user prompt for the chat model
+def build_messages(question: str, schema: dict) -> list:
+    schema_prompt = format_schema_for_prompt(schema)
+    return [
+        {"role": "system", "content": schema_prompt},
+        {"role": "user", "content": f"Write an SQL query to answer: {question}"},
+    ]
+
+# Call LLM via OpenAI-compatible HF router
+def generate_sql(question: str, schema_path: str = None) -> str:
+    schema = load_schema(schema_path)
+    messages = build_messages(question, schema)
+
+    response = client.chat.completions.create(
+        model="defog/llama-3-sqlcoder-8b:featherless-ai",
+        messages=messages,
+    )
+    return response.choices[0].message.content.strip()
+
+# Example usage
+if __name__ == "__main__":
+    question = "What is the average claim amount by line of business for closed claims?"
+    sql = generate_sql(question)
+    print("Generated SQL:\n", sql)
