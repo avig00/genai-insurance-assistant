@@ -3,5 +3,6 @@ requests>=2.31.0
 pandas>=1.5.0
 openai>=1.3.5
 sqlparse
+streamlit>=1.47.1
 streamlit-code-editor
 duckdb>=1.3.2

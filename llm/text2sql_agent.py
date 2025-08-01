@@ -38,29 +38,6 @@ def build_messages(question: str, schema: dict) -> list:
         {"role": "user", "content": f"Write an SQL query to answer: {question}"},
     ]
 
-# Call LLM via OpenAI-compatible HF router
-# def generate_sql(question: str, schema_path: str = None, context_sql: str = None) -> str:
-#     schema = load_schema(schema_path)
-
-#     # Adjust the prompt if this is a follow-up query
-#     if context_sql:
-#         followup_prompt = f"""The user previously ran this SQL:
-
-# {context_sql}
-
-# Now they asked: "{question}"
-
-# Generate SQL based on the previous context and the current question.
-# """
-#         messages = build_messages(followup_prompt, schema)
-#     else:
-#         messages = build_messages(question, schema)
-
-#     response = client.chat.completions.create(
-#         model="defog/llama-3-sqlcoder-8b:featherless-ai",
-#         messages=messages,
-#     )
-#     return response.choices[0].message.content.strip()
 
 def generate_sql(question: str, schema_path: str = None, context_sql: str = None) -> str:
     schema = load_schema(schema_path)
